@@ -26,7 +26,7 @@ def load(h5file):
     # create our main sequence group
     group = h5file.createGroup("/",'sequences', 'Sequence files')
 
-    for file_num in range(1):
+    for file_num in range(117):
 
         print "Reading File: " , file_num
          # create new group for the sequence number
@@ -70,7 +70,7 @@ def acs(file_num, geo_type_dir, h5file):
         elif file_iter == 2:
             #we are looking at the MOE file, create a new group for that
             try:
-                group = h5file.getNode("/sequences/"+"Seq_"+str(file_num)+"/estimates")
+                group = h5file.getNode("/sequences/"+"Seq_"+str(file_num)+"/margin_of_error")
             except NoSuchNodeError,e:
                 group = h5file.createGroup("/sequences/"+"Seq_"+str(file_num), 'margin_of_error', "MOE file for sequence: " + str(file_num))
 
@@ -90,7 +90,7 @@ def acs(file_num, geo_type_dir, h5file):
             data = str(line).split(',')[5:] # only the numbers
             #print "LOGRECNO: ", data[0]
             #turn this values into a numpy array
-            n_arr = array([val_to_int(x,'int') for x in data])
+            n_arr = array([val_to_int(x,'float') for x in data])
             h5file.createArray(group,"LOGRECNO_"+data[0], n_arr)
 
             #print data
@@ -103,8 +103,7 @@ def acs(file_num, geo_type_dir, h5file):
 def val_to_int(value, to = "int"):
     """turns string to int if its empty returns 0 """
     val = 0
-    if value is not '' and value != "\n":
-        #print value , "<----value"
+    if value is not '' and value != "\n" and value != ".":
         if to is "int":
             val = int(value)
         else:
