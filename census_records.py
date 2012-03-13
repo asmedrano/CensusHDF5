@@ -1,4 +1,5 @@
 import os
+import re
 from zipfile import ZipFile
 from utils import RemoteFileObject
 from tables import *
@@ -103,9 +104,13 @@ def acs(file_num, geo_type_dir, h5file):
 def val_to_int(value, to = "int"):
     """turns string to int if its empty returns 0 """
     val = 0
-    if value is not '' and value != "\n" and value != ".":
+    # match only numbers and stuff like 13.5 other wise return false
+    p = re.compile('\d+(\.\d+)?')
+    m = p.match(value)
+
+    if m is not None:
         if to is "int":
-            val = int(value)
+            val = int(m.group())
         else:
-            val = float(value)
+            val = float(m.group())
     return val
