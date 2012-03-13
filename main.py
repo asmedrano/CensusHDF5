@@ -2,6 +2,7 @@ from tables import *
 
 import ri_geographies
 import seq_num_table_lookup
+import census_records
 
 
 h5file = None
@@ -9,8 +10,11 @@ h5file = None
 def main():
 
 	h5file = openFile("HDF5/census.h5", mode = "w", title = "Census Data")
-	ri_geographies.load(h5file)
-	seq_num_table_lookup.load(h5file)
+	
+	#ri_geographies.load(h5file)
+	#seq_num_table_lookup.load(h5file)
+	census_records.load(h5file)
+
 	h5file.close()
 
 
