@@ -2,10 +2,6 @@ from tables import *
 import csv
 
 
-
-
-
-
 class LookupTable(IsDescription):
 	"""These match whats in the Sequence_Number_and_Table_Number_Lookup.csv"""
 	file_id = StringCol(16) #ACSSF
@@ -18,11 +14,8 @@ class LookupTable(IsDescription):
 	table_title = StringCol(200) #Total living in area 1 year ago:
 	subject_area = StringCol(200) #Residence Last Year - Migration
 
-		
-
-
-def main():
-	h5file = openFile("HDF5/census.h5", mode = "w", title = "Census Data")
+def load(h5file):
+	#h5file = openFile("HDF5/census.h5", mode = "w", title = "Census Data")
 	group = h5file.createGroup("/", 'acs_seq_tables_lookup', 'ACS Sequence Number Table Lookup')
 	#create the table using the LookupTable Description
 	table = h5file.createTable(group, 'lookup_table_row', LookupTable, 'Lookup Table')
@@ -50,8 +43,6 @@ def main():
 
 
 
-
-
 def val_to_int(value, to = "int"):
 	"""turns string to int cleaning out the word CELLS or CELL from it as well, if its empty returns 0 """
 	val = 0
@@ -66,7 +57,3 @@ def val_to_int(value, to = "int"):
 		else:
 			vale = float(cleaned_val)
 	return val
-
-
-if __name__ == "__main__":
-	main()
