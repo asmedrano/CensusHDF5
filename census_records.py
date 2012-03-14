@@ -13,7 +13,10 @@ def remote_fallback_reader(local_base_path, remote_base_url, file_path):
     """ Attempt to read the file locally, but grab from `remote_base_url` if it
     doesn't exist.
     """
+
+
     local_path = os.path.join(local_base_path, file_path)
+
     if os.path.isfile(local_path):
         print 'found file locally'
         return open(local_path, 'r')
@@ -27,7 +30,7 @@ def load(h5file):
     # create our main sequence group
     group = h5file.createGroup("/",'sequences', 'Sequence files')
 
-    for file_num in range(117):
+    for file_num in range(118):
 
         print "Reading File: " , file_num
          # create new group for the sequence number
@@ -46,7 +49,7 @@ def acs(file_num, geo_type_dir, h5file):
     print base_url + path
 
     reader = remote_fallback_reader(
-        '../data/acs2006_2010_5yr/summaryfile/2006-2010_ACSSF_By_State_By_Sequence_Table_Subset',
+        'source',
         base_url,
         path
     )
@@ -96,7 +99,7 @@ def acs(file_num, geo_type_dir, h5file):
 
             #print data
 
-        os.unlink('/tmp/' + f)
+        #os.unlink('/tmp/' + f)
         the_file.close()
 
 
