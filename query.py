@@ -1,5 +1,16 @@
 from tables import *
 
+
+def get_all_geographies(h5file):
+	"""Returns an pytables.table """
+	return h5file.getNode("/geographies/geographies_table")
+	
+
+def print_all_geographies(h5file):
+	geography_table = get_all_geographies(h5file)
+	for geography in geography_table.iterrows():
+		print geography['geography_name'], "%07d" % geography['logrecno']
+
 def get_sequence_num_from_table(table_id, row, h5file):
 	"""This example returns the title of the table we are looking up"""
 
@@ -9,9 +20,9 @@ def get_sequence_num_from_table(table_id, row, h5file):
 	sequence_nums = [ x['sequence_number'] for x in table.where(query)]
 
 	start_poss_query = """(table_id=='%s')""" % (table_id)
-	start_poss = [ x['start_position'] for x in table.where(start_poss_query)]
+	meta = [ (x['table_title'],x['start_position']) for x in table.where(start_poss_query)]
 
-	return {'seq_num':sequence_nums[0], 'start_poss':start_poss[0]}
+	return {'seq_num':sequence_nums[0], 'start_poss':meta[0][1], 'table_title':meta[0][0], 'row':row}
 
 
 def get_values_from_sequence(seq_num, logrecno, h5file):
@@ -20,31 +31,33 @@ def get_values_from_sequence(seq_num, logrecno, h5file):
 	row = h5file.getNode(natural_node_name)
 	return row
 
-def get_value_from_row(logrecno,table_id, row, h5file):
+def get_value_from_row(logrecno,table, h5file):
 	"""pull as single value from the row
 		expects row as 1,2,4,5 
 	"""
-	# figure out what sequence file this table is in.
-	table_info = get_sequence_num_from_table(table_id, row, h5file)
-	
+
 	#print seq_num, "<---- seq num"
 	#print get_values_from_sequence(table_info['seq_num'], logrecno, h5file).read()
 	# we need to caculate row_num so we can account for the fields that we removed in the normalization and for arrar(list) notation 0 
-	row_num = (table_info['start_poss']-6)+(row-1)
-	return get_values_from_sequence(table_info['seq_num'], logrecno, h5file)[row_num]
-
-
+	row_num = (table['start_poss']-6)+(table['row']-1)
+	return get_values_from_sequence(table['seq_num'], logrecno, h5file)[row_num]
 
 
 
 def main():
+	# open h5 file
 	h5file = openFile("HDF5/census.h5", mode = "r", title = "Census Data")
 
-	#seq_num = get_sequence_num_from_table('B07401', 1, h5file)[0]
-	#node = h5file.getNode("/sequences/Seq_1/estimates/LOGRECNO_0000001").read()
-	#print node
-
-	print get_value_from_row('0000040', 'B19113', 1, h5file)
+	# get table info
+	table = get_sequence_num_from_table('B19113', 1, h5file)
+	
+	#get all geographies
+	geography_table = get_all_geographies(h5file)
+	
+	for rec in geography_table:
+	 	logrecno = "%07d" % rec['logrecno']
+	 	print logrecno, rec['geography_name']
+	 	print get_value_from_row(logrecno, table, h5file)
 
 
 	h5file.close()
