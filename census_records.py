@@ -46,7 +46,7 @@ def acs(file_num, geo_type_dir, h5file):
         '20105%s%04d000.zip' % (state_abbr, file_num)
     )
 
-    print base_url + path
+    #print base_url + path
 
     reader = remote_fallback_reader(
         'source',
@@ -81,25 +81,26 @@ def acs(file_num, geo_type_dir, h5file):
 
         z.extract(f, '/tmp/')
 
+        #print group
+
         the_file = open('/tmp/' + f, 'r')
-        if not the_file.readline():
-            # some files are empty, so just continue to the next
-            os.unlink('/tmp/' + f)
-            the_file.close()
-            continue
+        # if not the_file.readline():
+        #     # some files are empty, so just continue to the next
+        #     os.unlink('/tmp/' + f)
+        #     the_file.close()
+        #     continue
         
         # at this point we have the filename and its in the /tmp/dir
         for line in the_file:
-            
+            #print line
             data = str(line).split(',')[5:] # only the numbers
-            #print "LOGRECNO: ", data[0]
-            #turn this values into a numpy array
-            n_arr = array([val_to_int(x,'float') for x in data])
-            h5file.createArray(group,"LOGRECNO_"+data[0], n_arr)
+            #print data           
+            #print "LOGRECNO_"+data[0]
+            h5file.createArray(group,"LOGRECNO_"+data[0],data)
 
             #print data
 
-        #os.unlink('/tmp/' + f)
+        os.unlink('/tmp/' + f)
         the_file.close()
 
 
