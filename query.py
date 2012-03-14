@@ -5,9 +5,13 @@ def get_sequence_num_from_table(table_id, row, h5file):
 
 	table=h5file.getNode("/acs_seq_tables_lookup/lookup_table_row")
 	query = """(table_id=='%s') & (line_number ==%s )""" % (table_id, row)
-	results = [ x['sequence_number'] for x in table.where(query)]
 
-	return results
+	sequence_nums = [ x['sequence_number'] for x in table.where(query)]
+
+	start_poss_query = """(table_id=='%s')""" % (table_id)
+	start_poss = [ x['start_position'] for x in table.where(start_poss_query)]
+
+	return {'seq_num':sequence_nums[0], 'start_poss':start_poss[0]}
 
 
 def get_values_from_sequence(seq_num, logrecno, h5file):
@@ -21,9 +25,13 @@ def get_value_from_row(logrecno,table_id, row, h5file):
 		expects row as 1,2,4,5 
 	"""
 	# figure out what sequence file this table is in.
-	seq_num = get_sequence_num_from_table(table_id, row, h5file)[0]
+	table_info = get_sequence_num_from_table(table_id, row, h5file)
 	
-	return get_values_from_sequence(seq_num, logrecno, h5file).read()[row]
+	#print seq_num, "<---- seq num"
+	#print get_values_from_sequence(table_info['seq_num'], logrecno, h5file).read()
+	# we need to caculate row_num so we can account for the fields that we removed in the normalization and for arrar(list) notation 0 
+	row_num = (table_info['start_poss']-6)+(row-1)
+	return get_values_from_sequence(table_info['seq_num'], logrecno, h5file)[row_num]
 
 
 
@@ -35,8 +43,8 @@ def main():
 	#seq_num = get_sequence_num_from_table('B07401', 1, h5file)[0]
 	#node = h5file.getNode("/sequences/Seq_1/estimates/LOGRECNO_0000001").read()
 	#print node
-	#print get_values_from_sequence(seq_num, '0000001',h5file).read()
-	print get_value_from_row('0000001', 'B07401', 1, h5file)
+
+	print get_value_from_row('0000040', 'B19113', 1, h5file)
 
 
 	h5file.close()

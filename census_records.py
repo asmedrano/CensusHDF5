@@ -84,19 +84,16 @@ def acs(file_num, geo_type_dir, h5file):
         #print group
 
         the_file = open('/tmp/' + f, 'r')
-        # if not the_file.readline():
-        #     # some files are empty, so just continue to the next
-        #     os.unlink('/tmp/' + f)
-        #     the_file.close()
-        #     continue
-        
+    
         # at this point we have the filename and its in the /tmp/dir
         for line in the_file:
             #print line
             data = str(line).split(',')[5:] # only the numbers
             #print data           
             #print "LOGRECNO_"+data[0]
-            h5file.createArray(group,"LOGRECNO_"+data[0],data)
+            n_arr = [val_to_int(x,'float') for x in data]
+
+            h5file.createArray(group,"LOGRECNO_"+data[0],n_arr)
 
             #print data
 
