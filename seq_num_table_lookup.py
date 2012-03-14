@@ -1,5 +1,6 @@
 from tables import *
 import csv
+import re
 
 
 class LookupTable(IsDescription):
@@ -44,16 +45,16 @@ def load(h5file):
 
 
 def val_to_int(value, to = "int"):
-	"""turns string to int cleaning out the word CELLS or CELL from it as well, if its empty returns 0 """
-	val = 0
+    """turns string to int if its empty returns 0 only save int--ables"""
+    val = 0
+    # match only numbers and stuff like 13.5 other wise return false
+    p = re.compile('\d+(\.\d+)?')
+    m = p.match(value)
 
-	if value is not "":
-		cleaned_val = value.replace("CELL","")
-		cleaned_val = cleaned_val.replace("S","")
-		# we can account for CELLS or CELL this way
-		if to is "int":
+    if m is not None:
+        try:
+            val = int(m.group())
+        except ValueError:
+            pass
 
-			val = int(cleaned_val)
-		else:
-			vale = float(cleaned_val)
-	return val
+    return val
