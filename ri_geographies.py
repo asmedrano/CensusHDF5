@@ -31,7 +31,7 @@ def load(h5file):
 
 	table.flush()
 
-	table.logrecno.createIndex()
+	table.cols.logrecno.createIndex()
 
 
 def val_to_int(value, to = "int"):
