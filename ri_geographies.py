@@ -31,6 +31,8 @@ def load(h5file):
 
 	table.flush()
 
+	#table.logrecno.createIndex()
+
 
 def val_to_int(value, to = "int"):
 	"""turns string to int if its empty returns 0 """

@@ -1,0 +1,3248 @@
+Census 2000 SF1 Tract 306.01, Block 2012 0000939
+('1122',)
+Census 2000 SF1 Tract 306.01, Block 2013 0000940
+('1901',)
+Census 2000 SF1 Tract 306.01, Block 2014 0000941
+('',)
+Census 2000 SF1 Tract 306.01, Block 2015 0000942
+('1666',)
+Census 2000 SF1 Tract 306.01, Block 2016 0000943
+('',)
+Census 2000 SF1 Tract 306.01, Block 2017 0000944
+('',)
+Census 2000 SF1 Tract 306.01, Block 2018 0000945
+('1373',)
+Census 2000 SF1 Tract 306.01, Block 2019 0000946
+('0',)
+Census 2000 SF1 Tract 306.01, Block 2020 0000947
+('',)
+Census 2000 SF1 Tract 306.01, Block 2021 0000948
+('',)
+Census 2000 SF1 Tract 306.01, Block 2996 0000949
+('',)
+Census 2000 SF1 Tract 306.01, Block 2997 0000950
+('776',)
+Census 2000 SF1 Tract 306.01, Block 2998 0000951
+('1680',)
+Census 2000 SF1 Tract 306.01, Block 3000 0000954
+('',)
+Census 2000 SF1 Tract 306.01, Block 3001 0000955
+('',)
+Census 2000 SF1 Tract 306.01, Block 3002 0000956
+('1915',)
+Census 2000 SF1 Tract 306.01, Block 3003 0000957
+('',)
+Census 2000 SF1 Tract 306.01, Block 3004 0000958
+('',)
+Census 2000 SF1 Tract 306.01, Block 3005 0000959
+('',)
+Census 2000 SF1 Tract 306.01, Block 3006 0000960
+('1183',)
+Census 2000 SF1 Tract 306.01, Block 3007 0000961
+('937',)
+Census 2000 SF1 Tract 306.01, Block 3008 0000962
+('859',)
+Census 2000 SF1 Tract 306.01, Block 3009 0000963
+('57',)
+Census 2000 SF1 Tract 306.01, Block 3010 0000964
+('458',)
+Census 2000 SF1 Tract 306.01, Block 3011 0000965
+('506',)
+Census 2000 SF1 Tract 306.01, Block 3012 0000966
+('741',)
+Census 2000 SF1 Tract 306.01, Block 3013 0000967
+('1483',)
+Census 2000 SF1 Tract 306.01, Block 3014 0000968
+('1128',)
+Census 2000 SF1 Tract 306.01, Block 3015 0000969
+('2497',)
+Census 2000 SF1 Tract 306.01, Block 3016 0000970
+('1176',)
+Census 2000 SF1 Tract 306.01, Block 3017 0000971
+('',)
+Census 2000 SF1 Tract 306.01, Block 3018 0000972
+('1248',)
+Census 2000 SF1 Tract 306.01, Block 3019 0000973
+('823',)
+Census 2000 SF1 Tract 306.01, Block 3999 0000974
+('29',)
+Census 2000 SF3 Block Group 306.013 0000195
+('',)
+Census 2000 SF3 Block Group 306.012 0000194
+('',)
+Census 2000 SF3 Block Group 306.011 0000193
+('0',)
+ACS 2010e5 Block Group 306.013 0000687
+('1098',)
+ACS 2010e5 Block Group 306.012 0000686
+('1279',)
+ACS 2010e5 Block Group 306.011 0000685
+('1092',)
+Census Tract 306.02 0001193
+('',)
+Census Tract 306.02 0001193
+('',)
+Census 2000 SF1 Tract 306.02, Block 1000 0000977
+('',)
+Census 2000 SF1 Tract 306.02, Block 1001 0000978
+('1577',)
+Census 2000 SF1 Tract 306.02, Block 1002 0000979
+('',)
+Census 2000 SF1 Tract 306.02, Block 1003 0000980
+('',)
+Census 2000 SF1 Tract 306.02, Block 1004 0000981
+('1250',)
+Census 2000 SF1 Tract 306.02, Block 1005 0000982
+('1051',)
+Census 2000 SF1 Tract 306.02, Block 1006 0000983
+('990',)
+Census 2000 SF1 Tract 306.02, Block 1007 0000984
+('1676',)
+Census 2000 SF1 Tract 306.02, Block 1008 0000985
+('1470',)
+Census 2000 SF1 Tract 306.02, Block 1009 0000986
+('',)
+Census 2000 SF1 Tract 306.02, Block 1010 0000987
+('178',)
+Census 2000 SF1 Tract 306.02, Block 1011 0000988
+(None,)
+Census 2000 SF1 Tract 306.02, Block 1012 0000989
+('571',)
+Census 2000 SF1 Tract 306.02, Block 1013 0000990
+('742',)
+Census 2000 SF1 Tract 306.02, Block 1014 0000991
+('',)
+Census 2000 SF1 Tract 306.02, Block 1999 0000992
+('',)
+Census 2000 SF1 Tract 306.02, Block 2000 0000994
+('',)
+Census 2000 SF1 Tract 306.02, Block 2001 0000995
+('475',)
+Census 2000 SF1 Tract 306.02, Block 2002 0000996
+('1869',)
+Census 2000 SF1 Tract 306.02, Block 2003 0000997
+('1835',)
+Census 2000 SF1 Tract 306.02, Block 2004 0000998
+('',)
+Census 2000 SF1 Tract 306.02, Block 2005 0000999
+('1382',)
+Census 2000 SF1 Tract 306.02, Block 2006 0001000
+('507',)
+Census 2000 SF1 Tract 306.02, Block 2007 0001001
+('',)
+Census 2000 SF1 Tract 306.02, Block 2008 0001002
+('1091',)
+Census 2000 SF1 Tract 306.02, Block 2009 0001003
+('751',)
+Census 2000 SF1 Tract 306.02, Block 2010 0001004
+('1955',)
+Census 2000 SF1 Tract 306.02, Block 2011 0001005
+('1600',)
+Census 2000 SF1 Tract 306.02, Block 2012 0001006
+('2294',)
+Census 2000 SF1 Tract 306.02, Block 2013 0001007
+('1364',)
+Census 2000 SF1 Tract 306.02, Block 2014 0001008
+('1174',)
+Census 2000 SF1 Tract 306.02, Block 2015 0001009
+('1452',)
+Census 2000 SF1 Tract 306.02, Block 2016 0001010
+('',)
+Census 2000 SF1 Tract 306.02, Block 2017 0001011
+('273',)
+Census 2000 SF1 Tract 306.02, Block 2018 0001012
+('1784',)
+Census 2000 SF1 Tract 306.02, Block 2019 0001013
+(None,)
+Census 2000 SF1 Tract 306.02, Block 2020 0001014
+('2279',)
+Census 2000 SF1 Tract 306.02, Block 3000 0001017
+('1028',)
+Census 2000 SF1 Tract 306.02, Block 3001 0001018
+('',)
+Census 2000 SF1 Tract 306.02, Block 3002 0001019
+('576',)
+Census 2000 SF1 Tract 306.02, Block 3003 0001020
+('573',)
+Census 2000 SF1 Tract 306.02, Block 3004 0001021
+('',)
+Census 2000 SF1 Tract 306.02, Block 3005 0001022
+('944',)
+Census 2000 SF1 Tract 306.02, Block 3006 0001023
+('1202',)
+Census 2000 SF1 Tract 306.02, Block 3007 0001024
+('1436',)
+Census 2000 SF1 Tract 306.02, Block 3008 0001025
+('767',)
+Census 2000 SF1 Tract 306.02, Block 3009 0001026
+('',)
+Census 2000 SF1 Tract 306.02, Block 3010 0001027
+('689',)
+Census 2000 SF1 Tract 306.02, Block 3011 0001028
+('973',)
+Census 2000 SF1 Tract 306.02, Block 3012 0001029
+('1156',)
+Census 2000 SF1 Tract 306.02, Block 3013 0001030
+('1124',)
+Census 2000 SF1 Tract 306.02, Block 3014 0001031
+('',)
+Census 2000 SF1 Tract 306.02, Block 3015 0001032
+('1061',)
+Census 2000 SF1 Tract 306.02, Block 4000 0001034
+('748',)
+Census 2000 SF1 Tract 306.02, Block 4001 0001035
+('1572',)
+Census 2000 SF1 Tract 306.02, Block 4002 0001036
+('822',)
+Census 2000 SF1 Tract 306.02, Block 4003 0001037
+('',)
+Census 2000 SF1 Tract 306.02, Block 4004 0001038
+('',)
+Census 2000 SF1 Tract 306.02, Block 4005 0001039
+('',)
+Census 2000 SF1 Tract 306.02, Block 4006 0001040
+('2052',)
+Census 2000 SF1 Tract 306.02, Block 4007 0001041
+('1141',)
+Census 2000 SF1 Tract 306.02, Block 4008 0001042
+('1070',)
+Census 2000 SF3 Block Group 306.024 0000204
+('',)
+Census 2000 SF3 Block Group 306.022 0000203
+('1575',)
+Census 2000 SF3 Block Group 306.023 0000208
+('5742',)
+Census 2000 SF3 Block Group 306.021 0000202
+('',)
+ACS 2010e5 Block Group 306.024 0000691
+('727',)
+ACS 2010e5 Block Group 306.022 0000689
+('826',)
+ACS 2010e5 Block Group 306.023 0000690
+('1486',)
+ACS 2010e5 Block Group 306.021 0000688
+('1018',)
+Census Tract 307 0001198
+('2028',)
+Census Tract 307 0001198
+('2028',)
+Census 2000 SF1 Tract 307.00, Block 1000 0000465
+('3894',)
+Census 2000 SF1 Tract 307.00, Block 1001 0000466
+('2522',)
+Census 2000 SF1 Tract 307.00, Block 1002 0000467
+('',)
+Census 2000 SF1 Tract 307.00, Block 1003 0000468
+('0',)
+Census 2000 SF1 Tract 307.00, Block 1004 0000469
+('',)
+Census 2000 SF1 Tract 307.00, Block 1005 0000470
+('6990',)
+Census 2000 SF1 Tract 307.00, Block 1006 0000471
+('4040',)
+Census 2000 SF1 Tract 307.00, Block 1007 0000472
+('4000',)
+Census 2000 SF1 Tract 307.00, Block 1008 0000473
+('2056',)
+Census 2000 SF1 Tract 307.00, Block 1009 0000474
+('0',)
+Census 2000 SF1 Tract 307.00, Block 1010 0000475
+('5082',)
+Census 2000 SF1 Tract 307.00, Block 1011 0000476
+('5742',)
+Census 2000 SF1 Tract 307.00, Block 1012 0000477
+('6492',)
+Census 2000 SF1 Tract 307.00, Block 2000 0000479
+('',)
+Census 2000 SF1 Tract 307.00, Block 2001 0000480
+('3082',)
+Census 2000 SF1 Tract 307.00, Block 2002 0000481
+('0',)
+Census 2000 SF1 Tract 307.00, Block 2003 0000482
+('58',)
+Census 2000 SF1 Tract 307.00, Block 2004 0000483
+('4807',)
+Census 2000 SF1 Tract 307.00, Block 2005 0000484
+('4614',)
+Census 2000 SF1 Tract 307.00, Block 2006 0000485
+('3229',)
+Census 2000 SF1 Tract 307.00, Block 2007 0000486
+('2700',)
+Census 2000 SF1 Tract 307.00, Block 3000 0000488
+('1653',)
+Census 2000 SF1 Tract 307.00, Block 3001 0000489
+('.',)
+Census 2000 SF1 Tract 307.00, Block 3002 0000490
+('1575',)
+Census 2000 SF1 Tract 307.00, Block 3003 0000491
+('5436',)
+Census 2000 SF1 Tract 307.00, Block 3004 0000492
+('0',)
+Census 2000 SF1 Tract 307.00, Block 3005 0000493
+('324',)
+Census 2000 SF1 Tract 307.00, Block 3006 0000494
+('4030',)
+Census 2000 SF1 Tract 307.00, Block 3007 0000495
+('3539',)
+Census 2000 SF1 Tract 307.00, Block 3008 0000496
+('',)
+Census 2000 SF1 Tract 307.00, Block 4000 0000498
+('5052',)
+Census 2000 SF1 Tract 307.00, Block 4001 0000499
+('4854',)
+Census 2000 SF1 Tract 307.00, Block 4002 0000500
+('5874',)
+Census 2000 SF1 Tract 307.00, Block 4003 0000501
+('202',)
+Census 2000 SF1 Tract 307.00, Block 4004 0000502
+('4367',)
+Census 2000 SF1 Tract 307.00, Block 4005 0000503
+('2976',)
+Census 2000 SF1 Tract 307.00, Block 4006 0000504
+('1994',)
+Census 2000 SF1 Tract 307.00, Block 4007 0000505
+('0',)
+Census 2000 SF1 Tract 307.00, Block 5000 0000508
+('',)
+Census 2000 SF1 Tract 307.00, Block 5001 0000509
+('',)
+Census 2000 SF1 Tract 307.00, Block 5002 0000510
+('2598',)
+Census 2000 SF1 Tract 307.00, Block 5003 0000511
+('4287',)
+Census 2000 SF1 Tract 307.00, Block 5004 0000512
+('7124',)
+Census 2000 SF1 Tract 307.00, Block 5005 0000513
+('3033',)
+Census 2000 SF1 Tract 307.00, Block 5006 0000514
+('0',)
+Census 2000 SF1 Tract 307.00, Block 5007 0000515
+('1276',)
+Census 2000 SF1 Tract 307.00, Block 5008 0000516
+('7008',)
+Census 2000 SF1 Tract 307.00, Block 5009 0000517
+('380',)
+Census 2000 SF1 Tract 307.00, Block 5010 0000518
+('',)
+Census 2000 SF3 Block Group 307.001 0000148
+('',)
+Census 2000 SF3 Block Group 307.003 0000150
+('0',)
+Census 2000 SF3 Block Group 307.002 0000149
+('4027',)
+Census 2000 SF3 Block Group 307.005 0000146
+('4862',)
+Census 2000 SF3 Block Group 307.004 0000145
+('4939',)
+ACS 2010e5 Block Group 307.001 0000692
+('868',)
+ACS 2010e5 Block Group 307.003 0000694
+('',)
+ACS 2010e5 Block Group 307.002 0000693
+('',)
+ACS 2010e5 Block Group 307.005 None
+ACS 2010e5 Block Group 307.004 0000695
+('942',)
+Census Tract 308 0001203
+('992',)
+Census Tract 308 0001203
+('992',)
+Census 2000 SF1 Tract 308.00, Block 1000 0000522
+('5629',)
+Census 2000 SF1 Tract 308.00, Block 1001 0000523
+('8234',)
+Census 2000 SF1 Tract 308.00, Block 1002 0000524
+('2919',)
+Census 2000 SF1 Tract 308.00, Block 1003 0000525
+('3159',)
+Census 2000 SF1 Tract 308.00, Block 1004 0000526
+('5397',)
+Census 2000 SF1 Tract 308.00, Block 1005 0000527
+('6284',)
+Census 2000 SF1 Tract 308.00, Block 1006 0000528
+('6950',)
+Census 2000 SF1 Tract 308.00, Block 1007 0000529
+('3953',)
+Census 2000 SF1 Tract 308.00, Block 1008 0000530
+('3457',)
+Census 2000 SF1 Tract 308.00, Block 1009 0000531
+('3952',)
+Census 2000 SF1 Tract 308.00, Block 1010 0000532
+('4926',)
+Census 2000 SF1 Tract 308.00, Block 1011 0000533
+('4855',)
+Census 2000 SF1 Tract 308.00, Block 1012 0000534
+('',)
+Census 2000 SF1 Tract 308.00, Block 1013 0000535
+('6710',)
+Census 2000 SF1 Tract 308.00, Block 1014 0000536
+('0',)
+Census 2000 SF1 Tract 308.00, Block 1015 0000537
+('3926',)
+Census 2000 SF1 Tract 308.00, Block 1016 0000538
+('3556',)
+Census 2000 SF1 Tract 308.00, Block 1017 0000539
+('6686',)
+Census 2000 SF1 Tract 308.00, Block 1018 0000540
+('',)
+Census 2000 SF1 Tract 308.00, Block 2000 0000542
+('4543',)
+Census 2000 SF1 Tract 308.00, Block 2001 0000543
+('4868',)
+Census 2000 SF1 Tract 308.00, Block 2002 0000544
+('5976',)
+Census 2000 SF1 Tract 308.00, Block 2003 0000545
+('2509',)
+Census 2000 SF1 Tract 308.00, Block 2004 0000546
+('0',)
+Census 2000 SF1 Tract 308.00, Block 2005 0000547
+('3977',)
+Census 2000 SF1 Tract 308.00, Block 2006 0000548
+('0',)
+Census 2000 SF1 Tract 308.00, Block 2007 0000549
+('6180',)
+Census 2000 SF1 Tract 308.00, Block 2008 0000550
+('4439',)
+Census 2000 SF1 Tract 308.00, Block 2009 0000551
+('5525',)
+Census 2000 SF1 Tract 308.00, Block 2010 0000552
+('4425',)
+Census 2000 SF1 Tract 308.00, Block 2011 0000553
+('4170',)
+Census 2000 SF1 Tract 308.00, Block 2012 0000554
+('7971',)
+Census 2000 SF1 Tract 308.00, Block 2013 0000555
+('73',)
+Census 2000 SF1 Tract 308.00, Block 2014 0000556
+('7029',)
+Census 2000 SF1 Tract 308.00, Block 2015 0000557
+('30',)
+Census 2000 SF1 Tract 308.00, Block 2016 0000558
+('6302',)
+Census 2000 SF1 Tract 308.00, Block 2017 0000559
+('4807',)
+Census 2000 SF1 Tract 308.00, Block 2018 0000560
+('0',)
+Census 2000 SF1 Tract 308.00, Block 2019 0000561
+('',)
+Census 2000 SF1 Tract 308.00, Block 2020 0000562
+('2859',)
+Census 2000 SF1 Tract 308.00, Block 2021 0000563
+('49',)
+Census 2000 SF1 Tract 308.00, Block 2022 0000564
+('6285',)
+Census 2000 SF1 Tract 308.00, Block 2023 0000565
+('0',)
+Census 2000 SF1 Tract 308.00, Block 2024 0000566
+('3038',)
+Census 2000 SF1 Tract 308.00, Block 3000 0000568
+('',)
+Census 2000 SF1 Tract 308.00, Block 3001 0000569
+('6598',)
+Census 2000 SF1 Tract 308.00, Block 3002 0000570
+('',)
+Census 2000 SF1 Tract 308.00, Block 3003 0000571
+('2917',)
+Census 2000 SF1 Tract 308.00, Block 3004 0000572
+('',)
+Census 2000 SF1 Tract 308.00, Block 3005 0000573
+('0',)
+Census 2000 SF1 Tract 308.00, Block 3006 0000574
+('6396',)
+Census 2000 SF1 Tract 308.00, Block 3007 0000575
+('5371',)
+Census 2000 SF1 Tract 308.00, Block 3008 0000576
+('4774',)
+Census 2000 SF1 Tract 308.00, Block 3009 0000577
+('',)
+Census 2000 SF1 Tract 308.00, Block 3010 0000578
+('2446',)
+Census 2000 SF1 Tract 308.00, Block 3011 0000579
+('22',)
+Census 2000 SF1 Tract 308.00, Block 3012 0000580
+('5006',)
+Census 2000 SF1 Tract 308.00, Block 3013 0000581
+('3551',)
+Census 2000 SF1 Tract 308.00, Block 3014 0000582
+('7414',)
+Census 2000 SF1 Tract 308.00, Block 3015 0000583
+('0',)
+Census 2000 SF1 Tract 308.00, Block 9000 0000588
+('4119',)
+Census 2000 SF1 Tract 308.00, Block 9001 0000589
+('5182',)
+Census 2000 SF3 Block Group 308.002 0000159
+('38',)
+Census 2000 SF3 Block Group 308.003 0000155
+('',)
+Census 2000 SF3 Block Group 308.001 0000158
+('3806',)
+Census 2000 SF3 Block Group 308.009 0000156
+('3894',)
+ACS 2010e5 Block Group 308.002 0000697
+('1715',)
+ACS 2010e5 Block Group 308.003 0000698
+('',)
+ACS 2010e5 Block Group 308.001 0000696
+('1033',)
+ACS 2010e5 Block Group 308.009 None
+Census Tract 309.01 0001208
+('2023',)
+Census Tract 309.01 0001208
+('2023',)
+Census 2000 SF1 Tract 309.01, Block 1000 0000594
+('.',)
+Census 2000 SF1 Tract 309.01, Block 1001 0000595
+('5640',)
+Census 2000 SF1 Tract 309.01, Block 1002 0000596
+('4399',)
+Census 2000 SF1 Tract 309.01, Block 1003 0000597
+('0',)
+Census 2000 SF1 Tract 309.01, Block 1004 0000598
+('',)
+Census 2000 SF1 Tract 309.01, Block 1005 0000599
+('3958',)
+Census 2000 SF1 Tract 309.01, Block 1006 0000600
+('5160',)
+Census 2000 SF1 Tract 309.01, Block 1007 0000601
+('3947',)
+Census 2000 SF1 Tract 309.01, Block 1008 0000602
+('1584',)
+Census 2000 SF1 Tract 309.01, Block 1009 0000603
+('',)
+Census 2000 SF1 Tract 309.01, Block 1010 0000604
+('5626',)
+Census 2000 SF1 Tract 309.01, Block 1011 0000605
+('4782',)
+Census 2000 SF1 Tract 309.01, Block 1012 0000606
+('168',)
+Census 2000 SF1 Tract 309.01, Block 1013 0000607
+('237',)
+Census 2000 SF1 Tract 309.01, Block 1014 0000608
+('2532',)
+Census 2000 SF1 Tract 309.01, Block 1015 0000609
+('',)
+Census 2000 SF1 Tract 309.01, Block 1016 0000610
+('4289',)
+Census 2000 SF1 Tract 309.01, Block 1017 0000611
+('2564',)
+Census 2000 SF1 Tract 309.01, Block 1018 0000612
+('3878',)
+Census 2000 SF1 Tract 309.01, Block 1019 0000613
+('4208',)
+Census 2000 SF1 Tract 309.01, Block 1020 0000614
+('2680',)
+Census 2000 SF1 Tract 309.01, Block 1021 0000615
+('771',)
+Census 2000 SF1 Tract 309.01, Block 1022 0000616
+('4599',)
+Census 2000 SF1 Tract 309.01, Block 1023 0000617
+('',)
+Census 2000 SF1 Tract 309.01, Block 1024 0000618
+('3900',)
+Census 2000 SF1 Tract 309.01, Block 1025 0000619
+('35',)
+Census 2000 SF1 Tract 309.01, Block 1026 0000620
+('1803',)
+Census 2000 SF1 Tract 309.01, Block 1027 0000621
+('2735',)
+Census 2000 SF1 Tract 309.01, Block 1028 0000622
+('',)
+Census 2000 SF1 Tract 309.01, Block 1029 0000623
+('0',)
+Census 2000 SF1 Tract 309.01, Block 1030 0000624
+('0',)
+Census 2000 SF1 Tract 309.01, Block 1031 0000625
+('4885',)
+Census 2000 SF1 Tract 309.01, Block 2000 0000628
+('3757',)
+Census 2000 SF1 Tract 309.01, Block 2001 0000629
+('',)
+Census 2000 SF1 Tract 309.01, Block 2002 0000630
+('3808',)
+Census 2000 SF1 Tract 309.01, Block 2003 0000631
+('2513',)
+Census 2000 SF1 Tract 309.01, Block 2004 0000632
+('3104',)
+Census 2000 SF1 Tract 309.01, Block 2005 0000633
+('2566',)
+Census 2000 SF1 Tract 309.01, Block 2006 0000634
+('0',)
+Census 2000 SF1 Tract 309.01, Block 2007 0000635
+('2468',)
+Census 2000 SF1 Tract 309.01, Block 2008 0000636
+('1537',)
+Census 2000 SF1 Tract 309.01, Block 2009 0000637
+('5912',)
+Census 2000 SF1 Tract 309.01, Block 2010 0000638
+('3562',)
+Census 2000 SF1 Tract 309.01, Block 2011 0000639
+('914',)
+Census 2000 SF1 Tract 309.01, Block 2012 0000640
+('1934',)
+Census 2000 SF1 Tract 309.01, Block 2013 0000641
+('5965',)
+Census 2000 SF1 Tract 309.01, Block 2014 0000642
+('4265',)
+Census 2000 SF1 Tract 309.01, Block 2015 0000643
+('56',)
+Census 2000 SF1 Tract 309.01, Block 2016 0000644
+('2620',)
+Census 2000 SF1 Tract 309.01, Block 2017 0000645
+('1752',)
+Census 2000 SF1 Tract 309.01, Block 2018 0000646
+('2724',)
+Census 2000 SF1 Tract 309.01, Block 2019 0000647
+('6537',)
+Census 2000 SF1 Tract 309.01, Block 2020 0000648
+('7672',)
+Census 2000 SF1 Tract 309.01, Block 2021 0000649
+('8168',)
+Census 2000 SF1 Tract 309.01, Block 2022 0000650
+('5965',)
+Census 2000 SF1 Tract 309.01, Block 2023 0000651
+('3553',)
+Census 2000 SF1 Tract 309.01, Block 2024 0000652
+('5732',)
+Census 2000 SF1 Tract 309.01, Block 2025 0000653
+('26',)
+Census 2000 SF1 Tract 309.01, Block 2026 0000654
+('1806',)
+Census 2000 SF1 Tract 309.01, Block 2027 0000655
+('4975',)
+Census 2000 SF1 Tract 309.01, Block 2028 0000656
+('337',)
+Census 2000 SF1 Tract 309.01, Block 2029 0000657
+('4969',)
+Census 2000 SF1 Tract 309.01, Block 2030 0000658
+('4256',)
+Census 2000 SF1 Tract 309.01, Block 2031 0000659
+('4108',)
+Census 2000 SF1 Tract 309.01, Block 2032 0000660
+('2057',)
+Census 2000 SF1 Tract 309.01, Block 2033 0000661
+('0',)
+Census 2000 SF1 Tract 309.01, Block 2034 0000662
+('45893',)
+Census 2000 SF1 Tract 309.01, Block 2035 0000663
+('4659',)
+Census 2000 SF1 Tract 309.01, Block 2036 0000664
+('7101',)
+Census 2000 SF1 Tract 309.01, Block 2037 0000665
+('3852',)
+Census 2000 SF1 Tract 309.01, Block 2038 0000666
+('5081',)
+Census 2000 SF1 Tract 309.01, Block 2039 0000667
+('0',)
+Census 2000 SF1 Tract 309.01, Block 2040 0000668
+('0',)
+Census 2000 SF1 Tract 309.01, Block 2041 0000669
+('1734',)
+Census 2000 SF1 Tract 309.01, Block 2042 0000670
+('9',)
+Census 2000 SF1 Tract 309.01, Block 2043 0000671
+('1104',)
+Census 2000 SF1 Tract 309.01, Block 2044 0000672
+('1227',)
+Census 2000 SF1 Tract 309.01, Block 2045 0000673
+('',)
+Census 2000 SF1 Tract 309.01, Block 3000 0000677
+('1658',)
+Census 2000 SF1 Tract 309.01, Block 3001 0000678
+('1693',)
+Census 2000 SF1 Tract 309.01, Block 3002 0000679
+('',)
+Census 2000 SF1 Tract 309.01, Block 3003 0000680
+('',)
+Census 2000 SF1 Tract 309.01, Block 3004 0000681
+('991',)
+Census 2000 SF1 Tract 309.01, Block 3005 0000682
+('694',)
+Census 2000 SF1 Tract 309.01, Block 3006 0000683
+('926',)
+Census 2000 SF1 Tract 309.01, Block 3007 0000684
+('1665',)
+Census 2000 SF1 Tract 309.01, Block 3008 0000685
+('1092',)
+Census 2000 SF1 Tract 309.01, Block 3009 0000686
+('1279',)
+Census 2000 SF1 Tract 309.01, Block 3010 0000687
+('1098',)
+Census 2000 SF1 Tract 309.01, Block 3011 0000688
+('1018',)
+Census 2000 SF1 Tract 309.01, Block 3012 0000689
+('826',)
+Census 2000 SF1 Tract 309.01, Block 3013 0000690
+('1486',)
+Census 2000 SF1 Tract 309.01, Block 3014 0000691
+('727',)
+Census 2000 SF1 Tract 309.01, Block 3015 0000692
+('868',)
+Census 2000 SF1 Tract 309.01, Block 3016 0000693
+('',)
+Census 2000 SF1 Tract 309.01, Block 3017 0000694
+('',)
+Census 2000 SF1 Tract 309.01, Block 3018 0000695
+('942',)
+Census 2000 SF1 Tract 309.01, Block 3019 0000696
+('1033',)
+Census 2000 SF1 Tract 309.01, Block 3020 0000697
+('1715',)
+Census 2000 SF1 Tract 309.01, Block 3021 0000698
+('',)
+Census 2000 SF1 Tract 309.01, Block 3022 0000699
+('1617',)
+Census 2000 SF1 Tract 309.01, Block 3023 0000700
+('2657',)
+Census 2000 SF1 Tract 309.01, Block 3024 0000701
+('2723',)
+Census 2000 SF1 Tract 309.01, Block 3025 0000702
+('1789',)
+Census 2000 SF1 Tract 309.01, Block 3026 0000703
+('',)
+Census 2000 SF1 Tract 309.01, Block 3027 0000704
+('816',)
+Census 2000 SF1 Tract 309.01, Block 3028 0000705
+('1551',)
+Census 2000 SF1 Tract 309.01, Block 3029 0000706
+('2486',)
+Census 2000 SF1 Tract 309.01, Block 3030 0000707
+('2447',)
+Census 2000 SF1 Tract 309.01, Block 3031 0000708
+('1247',)
+Census 2000 SF1 Tract 309.01, Block 3032 0000709
+('2326',)
+Census 2000 SF1 Tract 309.01, Block 3033 0000710
+('0',)
+Census 2000 SF3 Block Group 309.011 0000164
+('.',)
+Census 2000 SF3 Block Group 309.012 0000165
+('0',)
+Census 2000 SF3 Block Group 309.013 0000166
+('5974',)
+ACS 2010e5 Block Group 309.011 0000700
+('2657',)
+ACS 2010e5 Block Group 309.012 0000701
+('2723',)
+ACS 2010e5 Block Group 309.013 0000702
+('1789',)
+Census Tract 309.02 0001212
+('1554',)
+Census Tract 309.02 0001212
+('1554',)
+Census 2000 SF1 Tract 309.02, Block 1000 0000715
+('1963',)
+Census 2000 SF1 Tract 309.02, Block 1001 0000716
+('',)
+Census 2000 SF1 Tract 309.02, Block 1002 0000717
+('',)
+Census 2000 SF1 Tract 309.02, Block 1003 0000718
+('',)
+Census 2000 SF1 Tract 309.02, Block 1004 0000719
+('476',)
+Census 2000 SF1 Tract 309.02, Block 1005 0000720
+('1905',)
+Census 2000 SF1 Tract 309.02, Block 1006 0000721
+('',)
+Census 2000 SF1 Tract 309.02, Block 1007 0000722
+('619',)
+Census 2000 SF1 Tract 309.02, Block 1008 0000723
+('1445',)
+Census 2000 SF1 Tract 309.02, Block 1009 0000724
+('0',)
+Census 2000 SF1 Tract 309.02, Block 1010 0000725
+('',)
+Census 2000 SF1 Tract 309.02, Block 1011 0000726
+('576',)
+Census 2000 SF1 Tract 309.02, Block 1012 0000727
+('1205',)
+Census 2000 SF1 Tract 309.02, Block 1013 0000728
+('2035',)
+Census 2000 SF1 Tract 309.02, Block 1014 0000729
+('1784',)
+Census 2000 SF1 Tract 309.02, Block 1015 0000730
+('1916',)
+Census 2000 SF1 Tract 309.02, Block 1016 0000731
+('264',)
+Census 2000 SF1 Tract 309.02, Block 1017 0000732
+('1540',)
+Census 2000 SF1 Tract 309.02, Block 2000 0000734
+('',)
+Census 2000 SF1 Tract 309.02, Block 2001 0000735
+('3223',)
+Census 2000 SF1 Tract 309.02, Block 2002 0000736
+('1762',)
+Census 2000 SF1 Tract 309.02, Block 2003 0000737
+('960',)
+Census 2000 SF1 Tract 309.02, Block 2004 0000738
+('2246',)
+Census 2000 SF1 Tract 309.02, Block 2005 0000739
+('',)
+Census 2000 SF1 Tract 309.02, Block 2006 0000740
+('1995',)
+Census 2000 SF1 Tract 309.02, Block 2007 0000741
+('2763',)
+Census 2000 SF1 Tract 309.02, Block 2008 0000742
+('2406',)
+Census 2000 SF1 Tract 309.02, Block 2009 0000743
+('',)
+Census 2000 SF1 Tract 309.02, Block 2010 0000744
+('2712',)
+Census 2000 SF1 Tract 309.02, Block 2011 0000745
+('1108',)
+Census 2000 SF1 Tract 309.02, Block 2012 0000746
+('',)
+Census 2000 SF1 Tract 309.02, Block 2013 0000747
+('0',)
+Census 2000 SF1 Tract 309.02, Block 2014 0000748
+('1524',)
+Census 2000 SF1 Tract 309.02, Block 2015 0000749
+('742',)
+Census 2000 SF1 Tract 309.02, Block 2016 0000750
+('',)
+Census 2000 SF1 Tract 309.02, Block 2017 0000751
+('1148',)
+Census 2000 SF1 Tract 309.02, Block 2018 0000752
+('2089',)
+Census 2000 SF1 Tract 309.02, Block 2019 0000753
+('',)
+Census 2000 SF1 Tract 309.02, Block 2020 0000754
+('2414',)
+Census 2000 SF1 Tract 309.02, Block 2021 0000755
+('1756',)
+Census 2000 SF1 Tract 309.02, Block 2022 0000756
+('1709',)
+Census 2000 SF1 Tract 309.02, Block 2023 0000757
+('1258',)
+Census 2000 SF1 Tract 309.02, Block 2024 0000758
+('1321',)
+Census 2000 SF1 Tract 309.02, Block 2025 0000759
+('1995',)
+Census 2000 SF1 Tract 309.02, Block 2026 0000760
+('930',)
+Census 2000 SF1 Tract 309.02, Block 2027 0000761
+('',)
+Census 2000 SF1 Tract 309.02, Block 2028 0000762
+('1339',)
+Census 2000 SF1 Tract 309.02, Block 3000 0000765
+('1314',)
+Census 2000 SF1 Tract 309.02, Block 3001 0000766
+('',)
+Census 2000 SF1 Tract 309.02, Block 3002 0000767
+('915',)
+Census 2000 SF1 Tract 309.02, Block 3003 0000768
+('',)
+Census 2000 SF1 Tract 309.02, Block 3004 0000769
+('1394',)
+Census 2000 SF1 Tract 309.02, Block 3005 0000770
+('958',)
+Census 2000 SF1 Tract 309.02, Block 3006 0000771
+('1807',)
+Census 2000 SF1 Tract 309.02, Block 3007 0000772
+('340',)
+Census 2000 SF1 Tract 309.02, Block 3008 0000773
+('1235',)
+Census 2000 SF1 Tract 309.02, Block 3009 0000774
+('1665',)
+Census 2000 SF1 Tract 309.02, Block 3010 0000775
+('874',)
+Census 2000 SF1 Tract 309.02, Block 3011 0000776
+('',)
+Census 2000 SF1 Tract 309.02, Block 3012 0000777
+('1953',)
+Census 2000 SF1 Tract 309.02, Block 3013 0000778
+('678',)
+Census 2000 SF1 Tract 309.02, Block 3014 0000779
+('1294',)
+Census 2000 SF1 Tract 309.02, Block 3015 0000780
+('927',)
+Census 2000 SF1 Tract 309.02, Block 3016 0000781
+('',)
+Census 2000 SF1 Tract 309.02, Block 3017 0000782
+('778',)
+Census 2000 SF1 Tract 309.02, Block 3018 0000783
+('429',)
+Census 2000 SF1 Tract 309.02, Block 3019 0000784
+('939',)
+Census 2000 SF1 Tract 309.02, Block 3020 0000785
+('959',)
+Census 2000 SF1 Tract 309.02, Block 3021 0000786
+('1512',)
+Census 2000 SF1 Tract 309.02, Block 3022 0000787
+('1074',)
+Census 2000 SF1 Tract 309.02, Block 3023 0000788
+('',)
+Census 2000 SF1 Tract 309.02, Block 3024 0000789
+('877',)
+Census 2000 SF1 Tract 309.02, Block 3025 0000790
+('1347',)
+Census 2000 SF1 Tract 309.02, Block 3026 0000791
+('',)
+Census 2000 SF1 Tract 309.02, Block 3027 0000792
+('1328',)
+Census 2000 SF1 Tract 309.02, Block 3028 0000793
+('676',)
+Census 2000 SF1 Tract 309.02, Block 3029 0000794
+('851',)
+Census 2000 SF1 Tract 309.02, Block 3030 0000795
+('2612',)
+Census 2000 SF1 Tract 309.02, Block 3031 0000796
+('1669',)
+Census 2000 SF1 Tract 309.02, Block 3032 0000797
+('1058',)
+Census 2000 SF1 Tract 309.02, Block 3033 0000798
+('856',)
+Census 2000 SF1 Tract 309.02, Block 3034 0000799
+('',)
+Census 2000 SF1 Tract 309.02, Block 4000 0000805
+(None,)
+Census 2000 SF1 Tract 309.02, Block 4001 0000806
+('',)
+Census 2000 SF1 Tract 309.02, Block 4002 0000807
+('',)
+Census 2000 SF1 Tract 309.02, Block 4003 0000808
+('243',)
+Census 2000 SF1 Tract 309.02, Block 4004 0000809
+('',)
+Census 2000 SF1 Tract 309.02, Block 4005 0000810
+('2406',)
+Census 2000 SF1 Tract 309.02, Block 4006 0000811
+('630',)
+Census 2000 SF1 Tract 309.02, Block 4007 0000812
+('1317',)
+Census 2000 SF1 Tract 309.02, Block 4008 0000813
+('1237',)
+Census 2000 SF1 Tract 309.02, Block 4009 0000814
+('',)
+Census 2000 SF1 Tract 309.02, Block 4010 0000815
+('',)
+Census 2000 SF1 Tract 309.02, Block 4011 0000816
+('1367',)
+Census 2000 SF1 Tract 309.02, Block 4012 0000817
+('782',)
+Census 2000 SF1 Tract 309.02, Block 4013 0000818
+('0',)
+Census 2000 SF1 Tract 309.02, Block 4014 0000819
+('1154',)
+Census 2000 SF1 Tract 309.02, Block 4015 0000820
+('',)
+Census 2000 SF1 Tract 309.02, Block 4016 0000821
+('1154',)
+Census 2000 SF1 Tract 309.02, Block 4017 0000822
+('939',)
+Census 2000 SF3 Block Group 309.021 0000176
+('0',)
+Census 2000 SF3 Block Group 309.023 0000174
+('0',)
+Census 2000 SF3 Block Group 309.022 0000173
+('0',)
+Census 2000 SF3 Block Group 309.024 0000179
+('0',)
+ACS 2010e5 Block Group 309.021 0000703
+('',)
+ACS 2010e5 Block Group 309.023 0000705
+('1551',)
+ACS 2010e5 Block Group 309.022 0000704
+('816',)
+ACS 2010e5 Block Group 309.024 0000706
+('2486',)
+Census Tract 201.01 0005575
+Census Tract 201.01 0005575
+Census 2000 SF1 Tract 201.01, Block 2000 0004576
+Census 2000 SF1 Tract 201.01, Block 2001 0004577
+Census 2000 SF1 Tract 201.01, Block 2002 0004578
+Census 2000 SF1 Tract 201.01, Block 2003 0004579
+Census 2000 SF1 Tract 201.01, Block 2004 0004580
+Census 2000 SF1 Tract 201.01, Block 2005 0004581
+Census 2000 SF1 Tract 201.01, Block 2006 0004582
+Census 2000 SF1 Tract 201.01, Block 2007 0004583
+Census 2000 SF1 Tract 201.01, Block 2008 0004584
+Census 2000 SF1 Tract 201.01, Block 2009 0004585
+Census 2000 SF1 Tract 201.01, Block 2010 0004586
+Census 2000 SF1 Tract 201.01, Block 2011 0004587
+Census 2000 SF1 Tract 201.01, Block 2012 0004588
+Census 2000 SF1 Tract 201.01, Block 2013 0004589
+Census 2000 SF1 Tract 201.01, Block 2014 0004590
+Census 2000 SF1 Tract 201.01, Block 2015 0004591
+Census 2000 SF1 Tract 201.01, Block 2016 0004592
+Census 2000 SF1 Tract 201.01, Block 2017 0004593
+Census 2000 SF1 Tract 201.01, Block 2018 0004594
+Census 2000 SF1 Tract 201.01, Block 2019 0004595
+Census 2000 SF1 Tract 201.01, Block 2020 0004596
+Census 2000 SF1 Tract 201.01, Block 2021 0004597
+Census 2000 SF1 Tract 201.01, Block 2022 0004598
+Census 2000 SF1 Tract 201.01, Block 2023 0004599
+Census 2000 SF1 Tract 201.01, Block 2024 0004600
+Census 2000 SF1 Tract 201.01, Block 2025 0004601
+Census 2000 SF1 Tract 201.01, Block 2026 0004602
+Census 2000 SF1 Tract 201.01, Block 2027 0004603
+Census 2000 SF1 Tract 201.01, Block 2028 0004604
+Census 2000 SF1 Tract 201.01, Block 2029 0004605
+Census 2000 SF1 Tract 201.01, Block 2030 0004606
+Census 2000 SF1 Tract 201.01, Block 2031 0004607
+Census 2000 SF1 Tract 201.01, Block 2032 0004608
+Census 2000 SF1 Tract 201.01, Block 2033 0004609
+Census 2000 SF1 Tract 201.01, Block 2034 0004610
+Census 2000 SF1 Tract 201.01, Block 2035 0004611
+Census 2000 SF1 Tract 201.01, Block 2036 0004612
+Census 2000 SF1 Tract 201.01, Block 2037 0004613
+Census 2000 SF1 Tract 201.01, Block 9000 0004616
+Census 2000 SF1 Tract 201.01, Block 9001 0004617
+Census 2000 SF1 Tract 201.01, Block 9002 0004618
+Census 2000 SF1 Tract 201.01, Block 9003 0004619
+Census 2000 SF1 Tract 201.01, Block 9004 0004620
+Census 2000 SF1 Tract 201.01, Block 9005 0004621
+Census 2000 SF1 Tract 201.01, Block 9006 0004622
+Census 2000 SF1 Tract 201.01, Block 9007 0004623
+Census 2000 SF1 Tract 201.01, Block 9008 0004624
+Census 2000 SF1 Tract 201.01, Block 9009 0004625
+Census 2000 SF1 Tract 201.01, Block 9010 0004626
+Census 2000 SF1 Tract 201.01, Block 9011 0004627
+Census 2000 SF1 Tract 201.01, Block 9012 0004628
+Census 2000 SF1 Tract 201.01, Block 9013 0004629
+Census 2000 SF1 Tract 201.01, Block 9014 0004630
+Census 2000 SF1 Tract 201.01, Block 9015 0004631
+Census 2000 SF1 Tract 201.01, Block 9016 0004632
+Census 2000 SF1 Tract 201.01, Block 9017 0004633
+Census 2000 SF1 Tract 201.01, Block 9018 0004634
+Census 2000 SF1 Tract 201.01, Block 9019 0004635
+Census 2000 SF1 Tract 201.01, Block 9020 0004636
+Census 2000 SF1 Tract 201.01, Block 9021 0004637
+Census 2000 SF1 Tract 201.01, Block 9022 0004638
+Census 2000 SF1 Tract 201.01, Block 9023 0004639
+Census 2000 SF1 Tract 201.01, Block 9024 0004640
+Census 2000 SF1 Tract 201.01, Block 9025 0004641
+Census 2000 SF3 Block Group 201.019 0000485
+('3229',)
+Census 2000 SF3 Block Group 201.012 0000484
+('4614',)
+ACS 2010e5 Block Group 201.019 None
+ACS 2010e5 Block Group 201.012 0000708
+('1247',)
+Census Tract 201.02 0005579
+Census Tract 201.02 0005579
+Census 2000 SF1 Tract 201.02, Block 1000 0004644
+Census 2000 SF1 Tract 201.02, Block 1001 0004645
+Census 2000 SF1 Tract 201.02, Block 1002 0004646
+Census 2000 SF1 Tract 201.02, Block 1003 0004647
+Census 2000 SF1 Tract 201.02, Block 1004 0004648
+Census 2000 SF1 Tract 201.02, Block 1005 0004649
+Census 2000 SF1 Tract 201.02, Block 1006 0004650
+Census 2000 SF1 Tract 201.02, Block 1007 0004651
+Census 2000 SF1 Tract 201.02, Block 1008 0004652
+Census 2000 SF1 Tract 201.02, Block 1009 0004653
+Census 2000 SF1 Tract 201.02, Block 1010 0004654
+Census 2000 SF1 Tract 201.02, Block 1011 0004655
+Census 2000 SF1 Tract 201.02, Block 1012 0004656
+Census 2000 SF1 Tract 201.02, Block 1013 0004657
+Census 2000 SF1 Tract 201.02, Block 1014 0004658
+Census 2000 SF1 Tract 201.02, Block 1015 0004659
+Census 2000 SF1 Tract 201.02, Block 1016 0004660
+Census 2000 SF1 Tract 201.02, Block 1017 0004661
+Census 2000 SF1 Tract 201.02, Block 1018 0004662
+Census 2000 SF1 Tract 201.02, Block 3000 0004664
+Census 2000 SF1 Tract 201.02, Block 3001 0004665
+Census 2000 SF1 Tract 201.02, Block 3002 0004666
+Census 2000 SF1 Tract 201.02, Block 3003 0004667
+Census 2000 SF1 Tract 201.02, Block 3004 0004668
+Census 2000 SF1 Tract 201.02, Block 3005 0004669
+Census 2000 SF1 Tract 201.02, Block 3006 0004670
+Census 2000 SF1 Tract 201.02, Block 3007 0004671
+Census 2000 SF1 Tract 201.02, Block 3008 0004672
+Census 2000 SF1 Tract 201.02, Block 3009 0004673
+Census 2000 SF1 Tract 201.02, Block 3010 0004674
+Census 2000 SF1 Tract 201.02, Block 3011 0004675
+Census 2000 SF1 Tract 201.02, Block 3012 0004676
+Census 2000 SF1 Tract 201.02, Block 3013 0004677
+Census 2000 SF1 Tract 201.02, Block 3014 0004678
+Census 2000 SF1 Tract 201.02, Block 3015 0004679
+Census 2000 SF1 Tract 201.02, Block 3016 0004680
+Census 2000 SF1 Tract 201.02, Block 3017 0004681
+Census 2000 SF1 Tract 201.02, Block 3018 0004682
+Census 2000 SF1 Tract 201.02, Block 3019 0004683
+Census 2000 SF1 Tract 201.02, Block 3020 0004684
+Census 2000 SF1 Tract 201.02, Block 3021 0004685
+Census 2000 SF1 Tract 201.02, Block 3022 0004686
+Census 2000 SF1 Tract 201.02, Block 3023 0004687
+Census 2000 SF1 Tract 201.02, Block 3024 0004688
+Census 2000 SF1 Tract 201.02, Block 3025 0004689
+Census 2000 SF1 Tract 201.02, Block 3026 0004690
+Census 2000 SF1 Tract 201.02, Block 3027 0004691
+Census 2000 SF1 Tract 201.02, Block 3028 0004692
+Census 2000 SF1 Tract 201.02, Block 3029 0004693
+Census 2000 SF1 Tract 201.02, Block 3030 0004694
+Census 2000 SF1 Tract 201.02, Block 3031 0004695
+Census 2000 SF1 Tract 201.02, Block 3032 0004696
+Census 2000 SF1 Tract 201.02, Block 3033 0004697
+Census 2000 SF1 Tract 201.02, Block 3034 0004698
+Census 2000 SF1 Tract 201.02, Block 3035 0004699
+Census 2000 SF1 Tract 201.02, Block 4000 0004701
+Census 2000 SF1 Tract 201.02, Block 4001 0004702
+Census 2000 SF1 Tract 201.02, Block 4002 0004703
+Census 2000 SF1 Tract 201.02, Block 4003 0004704
+Census 2000 SF1 Tract 201.02, Block 4004 0004705
+Census 2000 SF1 Tract 201.02, Block 4005 0004706
+Census 2000 SF1 Tract 201.02, Block 4006 0004707
+Census 2000 SF1 Tract 201.02, Block 4007 0004708
+Census 2000 SF1 Tract 201.02, Block 4008 0004709
+Census 2000 SF1 Tract 201.02, Block 4009 0004710
+Census 2000 SF1 Tract 201.02, Block 4010 0004711
+Census 2000 SF1 Tract 201.02, Block 4011 0004712
+Census 2000 SF1 Tract 201.02, Block 4012 0004713
+Census 2000 SF1 Tract 201.02, Block 4013 0004714
+Census 2000 SF1 Tract 201.02, Block 4014 0004715
+Census 2000 SF1 Tract 201.02, Block 4015 0004716
+Census 2000 SF1 Tract 201.02, Block 4016 0004717
+Census 2000 SF1 Tract 201.02, Block 4017 0004718
+Census 2000 SF1 Tract 201.02, Block 4998 0004719
+Census 2000 SF1 Tract 201.02, Block 4999 0004720
+Census 2000 SF3 Block Group 201.021 0000488
+('1653',)
+Census 2000 SF3 Block Group 201.023 0000489
+('.',)
+Census 2000 SF3 Block Group 201.024 0000490
+('1575',)
+ACS 2010e5 Block Group 201.021 0000710
+('0',)
+ACS 2010e5 Block Group 201.023 0000712
+('1744',)
+ACS 2010e5 Block Group 201.024 None
+Census Tract 202 0005583
+Census Tract 202 0005583
+Census 2000 SF1 Tract 202.00, Block 1000 0004723
+Census 2000 SF1 Tract 202.00, Block 1001 0004724
+Census 2000 SF1 Tract 202.00, Block 1002 0004725
+Census 2000 SF1 Tract 202.00, Block 1003 0004726
+Census 2000 SF1 Tract 202.00, Block 1004 0004727
+Census 2000 SF1 Tract 202.00, Block 1005 0004728
+Census 2000 SF1 Tract 202.00, Block 1006 0004729
+Census 2000 SF1 Tract 202.00, Block 1007 0004730
+Census 2000 SF1 Tract 202.00, Block 1008 0004731
+Census 2000 SF1 Tract 202.00, Block 1009 0004732
+Census 2000 SF1 Tract 202.00, Block 1010 0004733
+Census 2000 SF1 Tract 202.00, Block 1011 0004734
+Census 2000 SF1 Tract 202.00, Block 1012 0004735
+Census 2000 SF1 Tract 202.00, Block 1013 0004736
+Census 2000 SF1 Tract 202.00, Block 1014 0004737
+Census 2000 SF1 Tract 202.00, Block 1015 0004738
+Census 2000 SF1 Tract 202.00, Block 1016 0004739
+Census 2000 SF1 Tract 202.00, Block 1017 0004740
+Census 2000 SF1 Tract 202.00, Block 1018 0004741
+Census 2000 SF1 Tract 202.00, Block 1019 0004742
+Census 2000 SF1 Tract 202.00, Block 1020 0004743
+Census 2000 SF1 Tract 202.00, Block 1021 0004744
+Census 2000 SF1 Tract 202.00, Block 1022 0004745
+Census 2000 SF1 Tract 202.00, Block 1023 0004746
+Census 2000 SF1 Tract 202.00, Block 1024 0004747
+Census 2000 SF1 Tract 202.00, Block 2000 0004751
+Census 2000 SF1 Tract 202.00, Block 2001 0004752
+Census 2000 SF1 Tract 202.00, Block 2002 0004753
+Census 2000 SF1 Tract 202.00, Block 2003 0004754
+Census 2000 SF1 Tract 202.00, Block 2004 0004755
+Census 2000 SF1 Tract 202.00, Block 2005 0004756
+Census 2000 SF1 Tract 202.00, Block 2006 0004757
+Census 2000 SF1 Tract 202.00, Block 2007 0004758
+Census 2000 SF1 Tract 202.00, Block 2008 0004759
+Census 2000 SF1 Tract 202.00, Block 2009 0004760
+Census 2000 SF1 Tract 202.00, Block 2010 0004761
+Census 2000 SF1 Tract 202.00, Block 2011 0004762
+Census 2000 SF1 Tract 202.00, Block 2012 0004763
+Census 2000 SF1 Tract 202.00, Block 2013 0004764
+Census 2000 SF1 Tract 202.00, Block 2014 0004765
+Census 2000 SF1 Tract 202.00, Block 2015 0004766
+Census 2000 SF1 Tract 202.00, Block 2016 0004767
+Census 2000 SF1 Tract 202.00, Block 2017 0004768
+Census 2000 SF1 Tract 202.00, Block 2018 0004769
+Census 2000 SF1 Tract 202.00, Block 2019 0004770
+Census 2000 SF1 Tract 202.00, Block 2020 0004771
+Census 2000 SF1 Tract 202.00, Block 2021 0004772
+Census 2000 SF1 Tract 202.00, Block 2022 0004773
+Census 2000 SF1 Tract 202.00, Block 2023 0004774
+Census 2000 SF1 Tract 202.00, Block 2024 0004775
+Census 2000 SF1 Tract 202.00, Block 2025 0004776
+Census 2000 SF1 Tract 202.00, Block 2026 0004777
+Census 2000 SF1 Tract 202.00, Block 2027 0004778
+Census 2000 SF1 Tract 202.00, Block 2028 0004779
+Census 2000 SF1 Tract 202.00, Block 2998 0004780
+Census 2000 SF1 Tract 202.00, Block 2999 0004781
+Census 2000 SF1 Tract 202.00, Block 3000 0004783
+Census 2000 SF1 Tract 202.00, Block 3001 0004784
+Census 2000 SF1 Tract 202.00, Block 3002 0004785
+Census 2000 SF1 Tract 202.00, Block 3003 0004786
+Census 2000 SF1 Tract 202.00, Block 3004 0004787
+Census 2000 SF1 Tract 202.00, Block 3005 0004788
+Census 2000 SF1 Tract 202.00, Block 3006 0004789
+Census 2000 SF1 Tract 202.00, Block 3007 0004790
+Census 2000 SF1 Tract 202.00, Block 3008 0004791
+Census 2000 SF1 Tract 202.00, Block 3009 0004792
+Census 2000 SF1 Tract 202.00, Block 3010 0004793
+Census 2000 SF1 Tract 202.00, Block 3011 0004794
+Census 2000 SF1 Tract 202.00, Block 3012 0004795
+Census 2000 SF1 Tract 202.00, Block 3013 0004796
+Census 2000 SF1 Tract 202.00, Block 3014 0004797
+Census 2000 SF1 Tract 202.00, Block 3015 0004798
+Census 2000 SF1 Tract 202.00, Block 3016 0004799
+Census 2000 SF1 Tract 202.00, Block 3017 0004800
+Census 2000 SF1 Tract 202.00, Block 3018 0004801
+Census 2000 SF1 Tract 202.00, Block 3019 0004802
+Census 2000 SF1 Tract 202.00, Block 3020 0004803
+Census 2000 SF1 Tract 202.00, Block 3021 0004804
+Census 2000 SF1 Tract 202.00, Block 3022 0004805
+Census 2000 SF1 Tract 202.00, Block 3023 0004806
+Census 2000 SF1 Tract 202.00, Block 3024 0004807
+Census 2000 SF1 Tract 202.00, Block 3025 0004808
+Census 2000 SF1 Tract 202.00, Block 3026 0004809
+Census 2000 SF1 Tract 202.00, Block 4000 0004813
+Census 2000 SF1 Tract 202.00, Block 4001 0004814
+Census 2000 SF1 Tract 202.00, Block 4002 0004815
+Census 2000 SF1 Tract 202.00, Block 4003 0004816
+Census 2000 SF1 Tract 202.00, Block 4004 0004817
+Census 2000 SF1 Tract 202.00, Block 4005 0004818
+Census 2000 SF1 Tract 202.00, Block 4006 0004819
+Census 2000 SF1 Tract 202.00, Block 4007 0004820
+Census 2000 SF1 Tract 202.00, Block 4008 0004821
+Census 2000 SF1 Tract 202.00, Block 4009 0004822
+Census 2000 SF1 Tract 202.00, Block 4010 0004823
+Census 2000 SF1 Tract 202.00, Block 4011 0004824
+Census 2000 SF1 Tract 202.00, Block 4012 0004825
+Census 2000 SF1 Tract 202.00, Block 4013 0004826
+Census 2000 SF1 Tract 202.00, Block 4014 0004827
+Census 2000 SF1 Tract 202.00, Block 4015 0004828
+Census 2000 SF1 Tract 202.00, Block 4016 0004829
+Census 2000 SF1 Tract 202.00, Block 4017 0004830
+Census 2000 SF1 Tract 202.00, Block 4018 0004831
+Census 2000 SF3 Block Group 202.004 0000496
+('',)
+Census 2000 SF3 Block Group 202.001 0000493
+('324',)
+Census 2000 SF3 Block Group 202.003 0000495
+('3539',)
+Census 2000 SF3 Block Group 202.002 0000494
+('4030',)
+ACS 2010e5 Block Group 202.004 None
+ACS 2010e5 Block Group 202.001 0000713
+('2124',)
+ACS 2010e5 Block Group 202.003 0000715
+('1963',)
+ACS 2010e5 Block Group 202.002 0000714
+('15',)
+Census Tract 203 0005587
+Census Tract 203 0005587
+Census 2000 SF1 Tract 203.00, Block 1000 0004834
+Census 2000 SF1 Tract 203.00, Block 1001 0004835
+Census 2000 SF1 Tract 203.00, Block 1002 0004836
+Census 2000 SF1 Tract 203.00, Block 1003 0004837
+Census 2000 SF1 Tract 203.00, Block 1004 0004838
+Census 2000 SF1 Tract 203.00, Block 1005 0004839
+Census 2000 SF1 Tract 203.00, Block 1006 0004840
+Census 2000 SF1 Tract 203.00, Block 1007 0004841
+Census 2000 SF1 Tract 203.00, Block 1008 0004842
+Census 2000 SF1 Tract 203.00, Block 1009 0004843
+Census 2000 SF1 Tract 203.00, Block 1010 0004844
+Census 2000 SF1 Tract 203.00, Block 1011 0004845
+Census 2000 SF1 Tract 203.00, Block 1012 0004846
+Census 2000 SF1 Tract 203.00, Block 1013 0004847
+Census 2000 SF1 Tract 203.00, Block 1014 0004848
+Census 2000 SF1 Tract 203.00, Block 1015 0004849
+Census 2000 SF1 Tract 203.00, Block 1016 0004850
+Census 2000 SF1 Tract 203.00, Block 1017 0004851
+Census 2000 SF1 Tract 203.00, Block 1018 0004852
+Census 2000 SF1 Tract 203.00, Block 2000 0004854
+Census 2000 SF1 Tract 203.00, Block 2001 0004855
+Census 2000 SF1 Tract 203.00, Block 2002 0004856
+Census 2000 SF1 Tract 203.00, Block 2003 0004857
+Census 2000 SF1 Tract 203.00, Block 2004 0004858
+Census 2000 SF1 Tract 203.00, Block 2005 0004859
+Census 2000 SF1 Tract 203.00, Block 2006 0004860
+Census 2000 SF1 Tract 203.00, Block 2007 0004861
+Census 2000 SF1 Tract 203.00, Block 2008 0004862
+Census 2000 SF1 Tract 203.00, Block 2009 0004863
+Census 2000 SF1 Tract 203.00, Block 2010 0004864
+Census 2000 SF1 Tract 203.00, Block 2011 0004865
+Census 2000 SF1 Tract 203.00, Block 2012 0004866
+Census 2000 SF1 Tract 203.00, Block 2013 0004867
+Census 2000 SF1 Tract 203.00, Block 2014 0004868
+Census 2000 SF1 Tract 203.00, Block 2015 0004869
+Census 2000 SF1 Tract 203.00, Block 2016 0004870
+Census 2000 SF1 Tract 203.00, Block 2017 0004871
+Census 2000 SF1 Tract 203.00, Block 2018 0004872
+Census 2000 SF1 Tract 203.00, Block 2019 0004873
+Census 2000 SF1 Tract 203.00, Block 2020 0004874
+Census 2000 SF1 Tract 203.00, Block 2021 0004875
+Census 2000 SF1 Tract 203.00, Block 3000 0004877
+Census 2000 SF1 Tract 203.00, Block 3001 0004878
+Census 2000 SF1 Tract 203.00, Block 3002 0004879
+Census 2000 SF1 Tract 203.00, Block 3003 0004880
+Census 2000 SF1 Tract 203.00, Block 3004 0004881
+Census 2000 SF1 Tract 203.00, Block 3005 0004882
+Census 2000 SF1 Tract 203.00, Block 3006 0004883
+Census 2000 SF1 Tract 203.00, Block 3007 0004884
+Census 2000 SF1 Tract 203.00, Block 3008 0004885
+Census 2000 SF1 Tract 203.00, Block 3009 0004886
+Census 2000 SF1 Tract 203.00, Block 3010 0004887
+Census 2000 SF1 Tract 203.00, Block 3011 0004888
+Census 2000 SF1 Tract 203.00, Block 3012 0004889
+Census 2000 SF1 Tract 203.00, Block 3013 0004890
+Census 2000 SF1 Tract 203.00, Block 3014 0004891
+Census 2000 SF1 Tract 203.00, Block 3015 0004892
+Census 2000 SF1 Tract 203.00, Block 3016 0004893
+Census 2000 SF1 Tract 203.00, Block 3017 0004894
+Census 2000 SF1 Tract 203.00, Block 3018 0004895
+Census 2000 SF1 Tract 203.00, Block 3019 0004896
+Census 2000 SF1 Tract 203.00, Block 3020 0004897
+Census 2000 SF1 Tract 203.00, Block 3021 0004898
+Census 2000 SF1 Tract 203.00, Block 3022 0004899
+Census 2000 SF1 Tract 203.00, Block 3023 0004900
+Census 2000 SF1 Tract 203.00, Block 3024 0004901
+Census 2000 SF1 Tract 203.00, Block 3025 0004902
+Census 2000 SF1 Tract 203.00, Block 3026 0004903
+Census 2000 SF1 Tract 203.00, Block 3027 0004904
+Census 2000 SF1 Tract 203.00, Block 3028 0004905
+Census 2000 SF1 Tract 203.00, Block 3029 0004906
+Census 2000 SF1 Tract 203.00, Block 4000 0004908
+Census 2000 SF1 Tract 203.00, Block 4001 0004909
+Census 2000 SF1 Tract 203.00, Block 4002 0004910
+Census 2000 SF1 Tract 203.00, Block 4003 0004911
+Census 2000 SF1 Tract 203.00, Block 4004 0004912
+Census 2000 SF1 Tract 203.00, Block 4005 0004913
+Census 2000 SF1 Tract 203.00, Block 4006 0004914
+Census 2000 SF1 Tract 203.00, Block 4007 0004915
+Census 2000 SF1 Tract 203.00, Block 4008 0004916
+Census 2000 SF1 Tract 203.00, Block 4009 0004917
+Census 2000 SF1 Tract 203.00, Block 4010 0004918
+Census 2000 SF1 Tract 203.00, Block 4011 0004919
+Census 2000 SF1 Tract 203.00, Block 4012 0004920
+Census 2000 SF1 Tract 203.00, Block 4013 0004921
+Census 2000 SF1 Tract 203.00, Block 4014 0004922
+Census 2000 SF1 Tract 203.00, Block 4015 0004923
+Census 2000 SF1 Tract 203.00, Block 4016 0004924
+Census 2000 SF1 Tract 203.00, Block 5000 0004926
+Census 2000 SF1 Tract 203.00, Block 5001 0004927
+Census 2000 SF1 Tract 203.00, Block 5002 0004928
+Census 2000 SF1 Tract 203.00, Block 5003 0004929
+Census 2000 SF1 Tract 203.00, Block 5004 0004930
+Census 2000 SF1 Tract 203.00, Block 5005 0004931
+Census 2000 SF1 Tract 203.00, Block 5006 0004932
+Census 2000 SF1 Tract 203.00, Block 5007 0004933
+Census 2000 SF1 Tract 203.00, Block 6000 0004935
+Census 2000 SF1 Tract 203.00, Block 6001 0004936
+Census 2000 SF1 Tract 203.00, Block 6002 0004937
+Census 2000 SF1 Tract 203.00, Block 6003 0004938
+Census 2000 SF1 Tract 203.00, Block 6004 0004939
+Census 2000 SF1 Tract 203.00, Block 6005 0004940
+Census 2000 SF1 Tract 203.00, Block 6006 0004941
+Census 2000 SF1 Tract 203.00, Block 6007 0004942
+Census 2000 SF1 Tract 203.00, Block 6008 0004943
+Census 2000 SF1 Tract 203.00, Block 6009 0004944
+Census 2000 SF1 Tract 203.00, Block 6010 0004945
+Census 2000 SF1 Tract 203.00, Block 6011 0004946
+Census 2000 SF3 Block Group 203.001 0000499
+('4854',)
+Census 2000 SF3 Block Group 203.002 0000500
+('5874',)
+Census 2000 SF3 Block Group 203.003 0000501
+('202',)
+Census 2000 SF3 Block Group 203.004 0000502
+('4367',)
+Census 2000 SF3 Block Group 203.005 0000503
+('2976',)
+Census 2000 SF3 Block Group 203.006 0000504
+('1994',)
+ACS 2010e5 Block Group 203.001 0000716
+('',)
+ACS 2010e5 Block Group 203.002 0000717
+('',)
+ACS 2010e5 Block Group 203.003 0000718
+('',)
+ACS 2010e5 Block Group 203.004 0000719
+('476',)
+ACS 2010e5 Block Group 203.005 0000720
+('1905',)
+ACS 2010e5 Block Group 203.006 None
+Census Tract 204 0005593
+Census Tract 204 0005593
+Census 2000 SF1 Tract 204.00, Block 1000 0004949
+Census 2000 SF1 Tract 204.00, Block 1001 0004950
+Census 2000 SF1 Tract 204.00, Block 1002 0004951
+Census 2000 SF1 Tract 204.00, Block 1003 0004952
+Census 2000 SF1 Tract 204.00, Block 1004 0004953
+Census 2000 SF1 Tract 204.00, Block 1005 0004954
+Census 2000 SF1 Tract 204.00, Block 1006 0004955
+Census 2000 SF1 Tract 204.00, Block 1007 0004956
+Census 2000 SF1 Tract 204.00, Block 1008 0004957
+Census 2000 SF1 Tract 204.00, Block 1009 0004958
+Census 2000 SF1 Tract 204.00, Block 1010 0004959
+Census 2000 SF1 Tract 204.00, Block 1011 0004960
+Census 2000 SF1 Tract 204.00, Block 2000 0004962
+Census 2000 SF1 Tract 204.00, Block 2001 0004963
+Census 2000 SF1 Tract 204.00, Block 2002 0004964
+Census 2000 SF1 Tract 204.00, Block 2003 0004965
+Census 2000 SF1 Tract 204.00, Block 2004 0004966
+Census 2000 SF1 Tract 204.00, Block 2005 0004967
+Census 2000 SF1 Tract 204.00, Block 2006 0004968
+Census 2000 SF1 Tract 204.00, Block 2007 0004969
+Census 2000 SF1 Tract 204.00, Block 2008 0004970
+Census 2000 SF1 Tract 204.00, Block 2009 0004971
+Census 2000 SF1 Tract 204.00, Block 2010 0004972
+Census 2000 SF1 Tract 204.00, Block 2011 0004973
+Census 2000 SF1 Tract 204.00, Block 2012 0004974
+Census 2000 SF1 Tract 204.00, Block 2013 0004975
+Census 2000 SF1 Tract 204.00, Block 2014 0004976
+Census 2000 SF1 Tract 204.00, Block 2015 0004977
+Census 2000 SF1 Tract 204.00, Block 2016 0004978
+Census 2000 SF1 Tract 204.00, Block 2017 0004979
+Census 2000 SF1 Tract 204.00, Block 2018 0004980
+Census 2000 SF1 Tract 204.00, Block 2019 0004981
+Census 2000 SF1 Tract 204.00, Block 2020 0004982
+Census 2000 SF1 Tract 204.00, Block 2021 0004983
+Census 2000 SF1 Tract 204.00, Block 3000 0004985
+Census 2000 SF1 Tract 204.00, Block 3001 0004986
+Census 2000 SF1 Tract 204.00, Block 3002 0004987
+Census 2000 SF1 Tract 204.00, Block 3003 0004988
+Census 2000 SF1 Tract 204.00, Block 3004 0004989
+Census 2000 SF1 Tract 204.00, Block 3005 0004990
+Census 2000 SF1 Tract 204.00, Block 3006 0004991
+Census 2000 SF1 Tract 204.00, Block 3007 0004992
+Census 2000 SF1 Tract 204.00, Block 3008 0004993
+Census 2000 SF1 Tract 204.00, Block 3009 0004994
+Census 2000 SF1 Tract 204.00, Block 3010 0004995
+Census 2000 SF1 Tract 204.00, Block 3011 0004996
+Census 2000 SF1 Tract 204.00, Block 3012 0004997
+Census 2000 SF1 Tract 204.00, Block 3013 0004998
+Census 2000 SF1 Tract 204.00, Block 3014 0004999
+Census 2000 SF1 Tract 204.00, Block 3015 0005000
+Census 2000 SF1 Tract 204.00, Block 3016 0005001
+Census 2000 SF1 Tract 204.00, Block 3017 0005002
+Census 2000 SF1 Tract 204.00, Block 3018 0005003
+Census 2000 SF1 Tract 204.00, Block 3019 0005004
+Census 2000 SF1 Tract 204.00, Block 3020 0005005
+Census 2000 SF1 Tract 204.00, Block 3021 0005006
+Census 2000 SF1 Tract 204.00, Block 3022 0005007
+Census 2000 SF1 Tract 204.00, Block 3023 0005008
+Census 2000 SF1 Tract 204.00, Block 3024 0005009
+Census 2000 SF1 Tract 204.00, Block 3025 0005010
+Census 2000 SF1 Tract 204.00, Block 3026 0005011
+Census 2000 SF1 Tract 204.00, Block 3027 0005012
+Census 2000 SF1 Tract 204.00, Block 3028 0005013
+Census 2000 SF1 Tract 204.00, Block 3029 0005014
+Census 2000 SF1 Tract 204.00, Block 3030 0005015
+Census 2000 SF1 Tract 204.00, Block 3031 0005016
+Census 2000 SF1 Tract 204.00, Block 3032 0005017
+Census 2000 SF1 Tract 204.00, Block 3033 0005018
+Census 2000 SF1 Tract 204.00, Block 3034 0005019
+Census 2000 SF3 Block Group 204.003 0000509
+('',)
+Census 2000 SF3 Block Group 204.002 0000508
+('',)
+Census 2000 SF3 Block Group 204.001 0000507
+('0',)
+ACS 2010e5 Block Group 204.003 0000723
+('1445',)
+ACS 2010e5 Block Group 204.002 0000722
+('619',)
+ACS 2010e5 Block Group 204.001 0000721
+('',)
+Census Tract 205 0005597
+Census Tract 205 0005597
+Census 2000 SF1 Tract 205.00, Block 1000 0005022
+Census 2000 SF1 Tract 205.00, Block 1001 0005023
+Census 2000 SF1 Tract 205.00, Block 1002 0005024
+Census 2000 SF1 Tract 205.00, Block 1003 0005025
+Census 2000 SF1 Tract 205.00, Block 1004 0005026
+Census 2000 SF1 Tract 205.00, Block 1005 0005027
+Census 2000 SF1 Tract 205.00, Block 1006 0005028
+Census 2000 SF1 Tract 205.00, Block 1007 0005029
+Census 2000 SF1 Tract 205.00, Block 1008 0005030
+Census 2000 SF1 Tract 205.00, Block 1009 0005031
+Census 2000 SF1 Tract 205.00, Block 1010 0005032
+Census 2000 SF1 Tract 205.00, Block 1011 0005033
+Census 2000 SF1 Tract 205.00, Block 1012 0005034
+Census 2000 SF1 Tract 205.00, Block 1013 0005035
+Census 2000 SF1 Tract 205.00, Block 1014 0005036
+Census 2000 SF1 Tract 205.00, Block 1015 0005037
+Census 2000 SF1 Tract 205.00, Block 1016 0005038
+Census 2000 SF1 Tract 205.00, Block 1017 0005039
+Census 2000 SF1 Tract 205.00, Block 1018 0005040
+Census 2000 SF1 Tract 205.00, Block 1019 0005041
+Census 2000 SF1 Tract 205.00, Block 1020 0005042
+Census 2000 SF1 Tract 205.00, Block 1021 0005043
+Census 2000 SF1 Tract 205.00, Block 1022 0005044
+Census 2000 SF1 Tract 205.00, Block 1023 0005045
+Census 2000 SF1 Tract 205.00, Block 1024 0005046
+Census 2000 SF1 Tract 205.00, Block 1025 0005047
+Census 2000 SF1 Tract 205.00, Block 1026 0005048
+Census 2000 SF1 Tract 205.00, Block 1027 0005049
+Census 2000 SF1 Tract 205.00, Block 1028 0005050
+Census 2000 SF1 Tract 205.00, Block 1029 0005051
+Census 2000 SF1 Tract 205.00, Block 1030 0005052
+Census 2000 SF1 Tract 205.00, Block 1031 0005053
+Census 2000 SF1 Tract 205.00, Block 1032 0005054
+Census 2000 SF1 Tract 205.00, Block 1033 0005055
+Census 2000 SF1 Tract 205.00, Block 1034 0005056
+Census 2000 SF1 Tract 205.00, Block 1035 0005057
+Census 2000 SF1 Tract 205.00, Block 2000 0005059
+Census 2000 SF1 Tract 205.00, Block 2001 0005060
+Census 2000 SF1 Tract 205.00, Block 2002 0005061
+Census 2000 SF1 Tract 205.00, Block 2003 0005062
+Census 2000 SF1 Tract 205.00, Block 2004 0005063
+Census 2000 SF1 Tract 205.00, Block 2005 0005064
+Census 2000 SF1 Tract 205.00, Block 2006 0005065
+Census 2000 SF1 Tract 205.00, Block 2007 0005066
+Census 2000 SF1 Tract 205.00, Block 2008 0005067
+Census 2000 SF1 Tract 205.00, Block 2009 0005068
+Census 2000 SF1 Tract 205.00, Block 2010 0005069
+Census 2000 SF1 Tract 205.00, Block 2011 0005070
+Census 2000 SF1 Tract 205.00, Block 2012 0005071
+Census 2000 SF1 Tract 205.00, Block 2013 0005072
+Census 2000 SF1 Tract 205.00, Block 2014 0005073
+Census 2000 SF1 Tract 205.00, Block 2015 0005074
+Census 2000 SF1 Tract 205.00, Block 2016 0005075
+Census 2000 SF1 Tract 205.00, Block 2017 0005076
+Census 2000 SF1 Tract 205.00, Block 2018 0005077
+Census 2000 SF1 Tract 205.00, Block 2019 0005078
+Census 2000 SF1 Tract 205.00, Block 3000 0005082
+Census 2000 SF1 Tract 205.00, Block 3001 0005083
+Census 2000 SF1 Tract 205.00, Block 3002 0005084
+Census 2000 SF1 Tract 205.00, Block 3003 0005085
+Census 2000 SF1 Tract 205.00, Block 3004 0005086
+Census 2000 SF1 Tract 205.00, Block 3005 0005087
+Census 2000 SF1 Tract 205.00, Block 3006 0005088
+Census 2000 SF1 Tract 205.00, Block 3007 0005089
+Census 2000 SF1 Tract 205.00, Block 3008 0005090
+Census 2000 SF1 Tract 205.00, Block 3009 0005091
+Census 2000 SF1 Tract 205.00, Block 3010 0005092
+Census 2000 SF1 Tract 205.00, Block 3011 0005093
+Census 2000 SF1 Tract 205.00, Block 3012 0005094
+Census 2000 SF1 Tract 205.00, Block 3013 0005095
+Census 2000 SF1 Tract 205.00, Block 3014 0005096
+Census 2000 SF1 Tract 205.00, Block 3015 0005097
+Census 2000 SF1 Tract 205.00, Block 3016 0005098
+Census 2000 SF1 Tract 205.00, Block 3017 0005099
+Census 2000 SF1 Tract 205.00, Block 3018 0005100
+Census 2000 SF1 Tract 205.00, Block 3019 0005101
+Census 2000 SF1 Tract 205.00, Block 3997 0005102
+Census 2000 SF3 Block Group 205.002 0000513
+('3033',)
+Census 2000 SF3 Block Group 205.003 0000514
+('0',)
+Census 2000 SF3 Block Group 205.001 0000512
+('7124',)
+ACS 2010e5 Block Group 205.002 0000725
+('',)
+ACS 2010e5 Block Group 205.003 0000726
+('576',)
+ACS 2010e5 Block Group 205.001 0000724
+('0',)
+Census Tract 206.01 0005601
+Census Tract 206.01 0005601
+Census 2000 SF1 Tract 206.01, Block 1000 0001102
+('1024',)
+Census 2000 SF1 Tract 206.01, Block 1001 0001103
+('1186',)
+Census 2000 SF1 Tract 206.01, Block 1002 0001104
+('1601',)
+Census 2000 SF1 Tract 206.01, Block 1003 0001105
+('',)
+Census 2000 SF1 Tract 206.01, Block 1004 0001106
+('1374',)
+Census 2000 SF1 Tract 206.01, Block 1005 0001107
+('',)
+Census 2000 SF1 Tract 206.01, Block 1006 0001108
+('1901',)
+Census 2000 SF1 Tract 206.01, Block 1007 0001109
+('0',)
+Census 2000 SF1 Tract 206.01, Block 1008 0001110
+('',)
+Census 2000 SF1 Tract 206.01, Block 1009 0001111
+('1266',)
+Census 2000 SF1 Tract 206.01, Block 1010 0001112
+('1265',)
+Census 2000 SF1 Tract 206.01, Block 1011 0001113
+('11',)
+Census 2000 SF1 Tract 206.01, Block 1012 0001114
+('2308',)
+Census 2000 SF1 Tract 206.01, Block 1013 0001115
+('1661',)
+Census 2000 SF1 Tract 206.01, Block 1014 0001116
+('2510',)
+Census 2000 SF1 Tract 206.01, Block 1015 0001117
+('1073',)
+Census 2000 SF1 Tract 206.01, Block 1016 0001118
+('2161',)
+Census 2000 SF1 Tract 206.01, Block 1017 0001119
+('',)
+Census 2000 SF1 Tract 206.01, Block 1018 0001120
+('702',)
+Census 2000 SF1 Tract 206.01, Block 1019 0001121
+('1763',)
+Census 2000 SF1 Tract 206.01, Block 1020 0001122
+('1476',)
+Census 2000 SF1 Tract 206.01, Block 1021 0001123
+('',)
+Census 2000 SF1 Tract 206.01, Block 1022 0001124
+('',)
+Census 2000 SF1 Tract 206.01, Block 1023 0001125
+('1097',)
+Census 2000 SF1 Tract 206.01, Block 1024 0001126
+('1910',)
+Census 2000 SF1 Tract 206.01, Block 1025 0001127
+('909',)
+Census 2000 SF1 Tract 206.01, Block 1026 0001128
+('2386',)
+Census 2000 SF1 Tract 206.01, Block 1027 0001129
+('1843',)
+Census 2000 SF1 Tract 206.01, Block 1028 0001130
+('1857',)
+Census 2000 SF1 Tract 206.01, Block 1029 0001131
+('1107',)
+Census 2000 SF1 Tract 206.01, Block 1030 0001132
+('908',)
+Census 2000 SF1 Tract 206.01, Block 2000 0001137
+('858',)
+Census 2000 SF1 Tract 206.01, Block 2001 0001138
+('1066',)
+Census 2000 SF1 Tract 206.01, Block 2002 0001139
+('1000',)
+Census 2000 SF1 Tract 206.01, Block 2003 0001140
+('2001',)
+Census 2000 SF1 Tract 206.01, Block 2004 0001141
+('858',)
+Census 2000 SF1 Tract 206.01, Block 2005 0001142
+('1967',)
+Census 2000 SF1 Tract 206.01, Block 2006 0001143
+('1093',)
+Census 2000 SF1 Tract 206.01, Block 2007 0001144
+('1751',)
+Census 2000 SF1 Tract 206.01, Block 2008 0001145
+('1437',)
+Census 2000 SF1 Tract 206.01, Block 2009 0001146
+('1270',)
+Census 2000 SF1 Tract 206.01, Block 2010 0001147
+('843',)
+Census 2000 SF1 Tract 206.01, Block 2011 0001148
+('0',)
+Census 2000 SF1 Tract 206.01, Block 2012 0001149
+('1288',)
+Census 2000 SF1 Tract 206.01, Block 2013 0001150
+('1081',)
+Census 2000 SF1 Tract 206.01, Block 2014 0001151
+('1597',)
+Census 2000 SF1 Tract 206.01, Block 2015 0001152
+('1304',)
+Census 2000 SF1 Tract 206.01, Block 2016 0001153
+('588',)
+Census 2000 SF1 Tract 206.01, Block 2017 0001154
+('2097',)
+Census 2000 SF1 Tract 206.01, Block 2018 0001155
+('',)
+Census 2000 SF1 Tract 206.01, Block 2019 0001156
+('1181',)
+Census 2000 SF1 Tract 206.01, Block 2020 0001157
+('',)
+Census 2000 SF1 Tract 206.01, Block 2021 0001158
+('1595',)
+Census 2000 SF1 Tract 206.01, Block 2022 0001159
+('1001',)
+Census 2000 SF1 Tract 206.01, Block 2023 0001160
+('2239',)
+Census 2000 SF1 Tract 206.01, Block 2024 0001161
+('934',)
+Census 2000 SF1 Tract 206.01, Block 2025 0001162
+('2678',)
+Census 2000 SF1 Tract 206.01, Block 2026 0001163
+('1512',)
+Census 2000 SF1 Tract 206.01, Block 2027 0001164
+('2742',)
+Census 2000 SF1 Tract 206.01, Block 2028 0001165
+('2344',)
+Census 2000 SF1 Tract 206.01, Block 2029 0001166
+('1169',)
+Census 2000 SF1 Tract 206.01, Block 2030 0001167
+('802',)
+Census 2000 SF1 Tract 206.01, Block 2031 0001168
+('740',)
+Census 2000 SF1 Tract 206.01, Block 2032 0001169
+('1270',)
+Census 2000 SF1 Tract 206.01, Block 2033 0001170
+('777',)
+Census 2000 SF1 Tract 206.01, Block 2034 0001171
+('2001',)
+Census 2000 SF1 Tract 206.01, Block 2035 0001172
+('1342',)
+Census 2000 SF1 Tract 206.01, Block 9000 0001174
+('232',)
+Census 2000 SF1 Tract 206.01, Block 9001 0001175
+('2807',)
+Census 2000 SF1 Tract 206.01, Block 9002 0001176
+('771',)
+Census 2000 SF1 Tract 206.01, Block 9003 0001177
+('4015',)
+Census 2000 SF1 Tract 206.01, Block 9004 0001178
+('921',)
+Census 2000 SF1 Tract 206.01, Block 9005 0001179
+('915',)
+Census 2000 SF1 Tract 206.01, Block 9006 0001180
+('',)
+Census 2000 SF1 Tract 206.01, Block 9007 0001181
+('1174',)
+Census 2000 SF1 Tract 206.01, Block 9008 0001182
+('979',)
+Census 2000 SF1 Tract 206.01, Block 9009 0001183
+('1017',)
+Census 2000 SF1 Tract 206.01, Block 9010 0001184
+('1558',)
+Census 2000 SF1 Tract 206.01, Block 9011 0001185
+('',)
+Census 2000 SF1 Tract 206.01, Block 9012 0001186
+('1378',)
+Census 2000 SF1 Tract 206.01, Block 9013 0001187
+('2811',)
+Census 2000 SF1 Tract 206.01, Block 9014 0001188
+('2210',)
+Census 2000 SF1 Tract 206.01, Block 9015 0001189
+('',)
+Census 2000 SF1 Tract 206.01, Block 9016 0001190
+('1413',)
+Census 2000 SF1 Tract 206.01, Block 9017 0001191
+('945',)
+Census 2000 SF1 Tract 206.01, Block 9018 0001192
+('1253',)
+Census 2000 SF1 Tract 206.01, Block 9019 0001193
+('',)
+Census 2000 SF1 Tract 206.01, Block 9020 0001194
+('',)
+Census 2000 SF1 Tract 206.01, Block 9021 0001195
+('1360',)
+Census 2000 SF1 Tract 206.01, Block 9022 0001196
+('1770',)
+Census 2000 SF1 Tract 206.01, Block 9023 0001197
+('',)
+Census 2000 SF1 Tract 206.01, Block 9024 0001198
+('2028',)
+Census 2000 SF1 Tract 206.01, Block 9025 0001199
+('1062',)
+Census 2000 SF1 Tract 206.01, Block 9026 0001200
+('771',)
+Census 2000 SF1 Tract 206.01, Block 9027 0001201
+('',)
+Census 2000 SF1 Tract 206.01, Block 9028 0001202
+('',)
+Census 2000 SF1 Tract 206.01, Block 9029 0001203
+('992',)
+Census 2000 SF3 Block Group 206.019 0000274
+('1195',)
+Census 2000 SF3 Block Group 206.012 0000273
+('6852',)
+Census 2000 SF3 Block Group 206.011 0000270
+('1425',)
+ACS 2010e5 Block Group 206.019 None
+ACS 2010e5 Block Group 206.012 0000728
+('2035',)
+ACS 2010e5 Block Group 206.011 0000727
+('1205',)
+Census Tract 206.02 0005606
+Census Tract 206.02 0005606
+Census 2000 SF1 Tract 206.02, Block 1000 0001207
+('1361',)
+Census 2000 SF1 Tract 206.02, Block 1001 0001208
+('2023',)
+Census 2000 SF1 Tract 206.02, Block 1002 0001209
+('',)
+Census 2000 SF1 Tract 206.02, Block 1003 0001210
+('50',)
+Census 2000 SF1 Tract 206.02, Block 1004 0001211
+('',)
+Census 2000 SF1 Tract 206.02, Block 1005 0001212
+('1554',)
+Census 2000 SF1 Tract 206.02, Block 1006 0001213
+('1214',)
+Census 2000 SF1 Tract 206.02, Block 1007 0001214
+('',)
+Census 2000 SF1 Tract 206.02, Block 1008 0001215
+('733',)
+Census 2000 SF1 Tract 206.02, Block 1009 0001216
+('1002',)
+Census 2000 SF1 Tract 206.02, Block 1010 0001217
+('1279',)
+Census 2000 SF1 Tract 206.02, Block 1011 0001218
+('1578',)
+Census 2000 SF1 Tract 206.02, Block 1012 0001219
+('1954',)
+Census 2000 SF1 Tract 206.02, Block 1013 0001220
+('1900',)
+Census 2000 SF1 Tract 206.02, Block 1014 0001221
+('1891',)
+Census 2000 SF1 Tract 206.02, Block 1015 0001222
+('1456',)
+Census 2000 SF1 Tract 206.02, Block 1016 0001223
+('1184',)
+Census 2000 SF1 Tract 206.02, Block 1017 0001224
+('1155',)
+Census 2000 SF1 Tract 206.02, Block 1018 0001225
+('761',)
+Census 2000 SF1 Tract 206.02, Block 1019 0001226
+('1014',)
+Census 2000 SF1 Tract 206.02, Block 1020 0001227
+('',)
+Census 2000 SF1 Tract 206.02, Block 1021 0001228
+('',)
+Census 2000 SF1 Tract 206.02, Block 1022 0001229
+('',)
+Census 2000 SF1 Tract 206.02, Block 1023 0001230
+('1415',)
+Census 2000 SF1 Tract 206.02, Block 1024 0001231
+('',)
+Census 2000 SF1 Tract 206.02, Block 1025 0001232
+('1030',)
+Census 2000 SF1 Tract 206.02, Block 1026 0001233
+('',)
+Census 2000 SF1 Tract 206.02, Block 1027 0001234
+('1162',)
+Census 2000 SF1 Tract 206.02, Block 1028 0001235
+('857',)
+Census 2000 SF1 Tract 206.02, Block 1029 0001236
+('62',)
+Census 2000 SF1 Tract 206.02, Block 1030 0001237
+('1648',)
+Census 2000 SF1 Tract 206.02, Block 1031 0001238
+('724',)
+Census 2000 SF1 Tract 206.02, Block 1032 0001239
+('1204',)
+Census 2000 SF1 Tract 206.02, Block 1033 0001240
+('1406',)
+Census 2000 SF1 Tract 206.02, Block 1034 0001241
+('962',)
+Census 2000 SF1 Tract 206.02, Block 1035 0001242
+('623',)
+Census 2000 SF1 Tract 206.02, Block 1036 0001243
+('845',)
+Census 2000 SF1 Tract 206.02, Block 1037 0001244
+('923',)
+Census 2000 SF1 Tract 206.02, Block 1038 0001245
+('1050',)
+Census 2000 SF1 Tract 206.02, Block 1039 0001246
+('0',)
+Census 2000 SF1 Tract 206.02, Block 2000 0001253
+('970',)
+Census 2000 SF1 Tract 206.02, Block 2001 0001254
+('',)
+Census 2000 SF1 Tract 206.02, Block 2002 0001255
+('1927',)
+Census 2000 SF1 Tract 206.02, Block 2003 0001256
+('',)
+Census 2000 SF1 Tract 206.02, Block 2004 0001257
+('647',)
+Census 2000 SF1 Tract 206.02, Block 2005 0001258
+('',)
+Census 2000 SF1 Tract 206.02, Block 2006 0001259
+('654',)
+Census 2000 SF1 Tract 206.02, Block 2007 0001260
+('',)
+Census 2000 SF1 Tract 206.02, Block 2008 0001261
+('1326',)
+Census 2000 SF1 Tract 206.02, Block 2009 0001262
+('778',)
+Census 2000 SF1 Tract 206.02, Block 2010 0001263
+('',)
+Census 2000 SF1 Tract 206.02, Block 2011 0001264
+('1067',)
+Census 2000 SF1 Tract 206.02, Block 2012 0001265
+('632',)
+Census 2000 SF1 Tract 206.02, Block 2013 0001266
+('1675',)
+Census 2000 SF1 Tract 206.02, Block 2014 0001267
+('',)
+Census 2000 SF1 Tract 206.02, Block 2015 0001268
+('1199',)
+Census 2000 SF1 Tract 206.02, Block 2016 0001269
+('1698',)
+Census 2000 SF1 Tract 206.02, Block 2017 0001270
+('984',)
+Census 2000 SF1 Tract 206.02, Block 2018 0001271
+('',)
+Census 2000 SF1 Tract 206.02, Block 2019 0001272
+('2015',)
+Census 2000 SF1 Tract 206.02, Block 2020 0001273
+('885',)
+Census 2000 SF1 Tract 206.02, Block 2021 0001274
+('2260',)
+Census 2000 SF1 Tract 206.02, Block 2022 0001275
+('1259',)
+Census 2000 SF1 Tract 206.02, Block 2023 0001276
+('1646',)
+Census 2000 SF1 Tract 206.02, Block 2024 0001277
+('',)
+Census 2000 SF1 Tract 206.02, Block 2025 0001278
+('1454',)
+Census 2000 SF1 Tract 206.02, Block 2026 0001279
+('',)
+Census 2000 SF1 Tract 206.02, Block 2027 0001280
+('2397',)
+Census 2000 SF1 Tract 206.02, Block 2028 0001281
+('1266',)
+Census 2000 SF1 Tract 206.02, Block 2029 0001282
+('1798',)
+Census 2000 SF1 Tract 206.02, Block 2030 0001283
+('1284',)
+Census 2000 SF1 Tract 206.02, Block 2031 0001284
+('',)
+Census 2000 SF1 Tract 206.02, Block 2032 0001285
+('497',)
+Census 2000 SF1 Tract 206.02, Block 2033 0001286
+('749',)
+Census 2000 SF1 Tract 206.02, Block 2034 0001287
+('2323',)
+Census 2000 SF1 Tract 206.02, Block 2035 0001288
+('0',)
+Census 2000 SF1 Tract 206.02, Block 2036 0001289
+('1352',)
+Census 2000 SF3 Block Group 206.022 0000278
+('5940',)
+Census 2000 SF3 Block Group 206.021 0000277
+('',)
+ACS 2010e5 Block Group 206.022 0000732
+('1540',)
+ACS 2010e5 Block Group 206.021 0000731
+('264',)
+Census Tract 206.03 0005609
+Census Tract 206.03 0005609
+Census 2000 SF1 Tract 206.03, Block 1000 0001296
+('487',)
+Census 2000 SF1 Tract 206.03, Block 1001 0001297
+('1473',)
+Census 2000 SF1 Tract 206.03, Block 1002 0001298
+('',)
+Census 2000 SF1 Tract 206.03, Block 1003 0001299
+('839',)
+Census 2000 SF1 Tract 206.03, Block 1004 0001300
+('1704',)
+Census 2000 SF1 Tract 206.03, Block 1005 0001301
+('907',)
+Census 2000 SF1 Tract 206.03, Block 1006 0001302
+('',)
+Census 2000 SF1 Tract 206.03, Block 1007 0001303
+('1625',)
+Census 2000 SF1 Tract 206.03, Block 1008 0001304
+('',)
+Census 2000 SF1 Tract 206.03, Block 1009 0001305
+('761',)
+Census 2000 SF1 Tract 206.03, Block 1010 0001306
+('',)
+Census 2000 SF1 Tract 206.03, Block 1011 0001307
+('',)
+Census 2000 SF1 Tract 206.03, Block 1012 0001308
+('1036',)
+Census 2000 SF1 Tract 206.03, Block 1013 0001309
+('1188',)
+Census 2000 SF1 Tract 206.03, Block 1014 0001310
+('',)
+Census 2000 SF1 Tract 206.03, Block 1015 0001311
+('',)
+Census 2000 SF1 Tract 206.03, Block 1016 0001312
+('1086',)
+Census 2000 SF1 Tract 206.03, Block 1017 0001313
+('',)
+Census 2000 SF1 Tract 206.03, Block 1018 0001314
+('593',)
+Census 2000 SF1 Tract 206.03, Block 1019 0001315
+('641',)
+Census 2000 SF1 Tract 206.03, Block 1020 0001316
+('943',)
+Census 2000 SF1 Tract 206.03, Block 1021 0001317
+('745',)
+Census 2000 SF1 Tract 206.03, Block 1022 0001318
+('557',)
+Census 2000 SF1 Tract 206.03, Block 1023 0001319
+('',)
+Census 2000 SF1 Tract 206.03, Block 1024 0001320
+('653',)
+Census 2000 SF1 Tract 206.03, Block 1025 0001321
+('609',)
+Census 2000 SF1 Tract 206.03, Block 1026 0001322
+('',)
+Census 2000 SF1 Tract 206.03, Block 1027 0001323
+('1466',)
+Census 2000 SF1 Tract 206.03, Block 1028 0001324
+('0',)
+Census 2000 SF1 Tract 206.03, Block 1029 0001325
+('',)
+Census 2000 SF1 Tract 206.03, Block 1030 0001326
+('',)
+Census 2000 SF1 Tract 206.03, Block 1031 0001327
+('1447',)
+Census 2000 SF1 Tract 206.03, Block 1032 0001328
+('',)
+Census 2000 SF1 Tract 206.03, Block 1033 0001329
+('884',)
+Census 2000 SF1 Tract 206.03, Block 1034 0001330
+('',)
+Census 2000 SF1 Tract 206.03, Block 1035 0001331
+('',)
+Census 2000 SF1 Tract 206.03, Block 1036 0001332
+('0',)
+Census 2000 SF1 Tract 206.03, Block 1037 0001333
+('564',)
+Census 2000 SF1 Tract 206.03, Block 1038 0001334
+('1351',)
+Census 2000 SF1 Tract 206.03, Block 1039 0001335
+('1462',)
+Census 2000 SF1 Tract 206.03, Block 1040 0001336
+('1032',)
+Census 2000 SF1 Tract 206.03, Block 1041 0001337
+('1803',)
+Census 2000 SF1 Tract 206.03, Block 1042 0001338
+('1354',)
+Census 2000 SF1 Tract 206.03, Block 1043 0001339
+('1381',)
+Census 2000 SF1 Tract 206.03, Block 1044 0001340
+('916',)
+Census 2000 SF1 Tract 206.03, Block 1045 0001341
+('',)
+Census 2000 SF1 Tract 206.03, Block 1046 0001342
+('0',)
+Census 2000 SF1 Tract 206.03, Block 2000 0001347
+('',)
+Census 2000 SF1 Tract 206.03, Block 2001 0001348
+('',)
+Census 2000 SF1 Tract 206.03, Block 2002 0001349
+('944',)
+Census 2000 SF1 Tract 206.03, Block 2003 0001350
+('441',)
+Census 2000 SF1 Tract 206.03, Block 2004 0001351
+('1101',)
+Census 2000 SF1 Tract 206.03, Block 2005 0001352
+('',)
+Census 2000 SF1 Tract 206.03, Block 2006 0001353
+('',)
+Census 2000 SF1 Tract 206.03, Block 2007 0001354
+('',)
+Census 2000 SF1 Tract 206.03, Block 2008 0001355
+('',)
+Census 2000 SF1 Tract 206.03, Block 2009 0001356
+('410',)
+Census 2000 SF1 Tract 206.03, Block 2010 0001357
+('',)
+Census 2000 SF1 Tract 206.03, Block 2011 0001358
+('',)
+Census 2000 SF1 Tract 206.03, Block 2012 0001359
+('1974',)
+Census 2000 SF1 Tract 206.03, Block 2013 0001360
+(None,)
+Census 2000 SF1 Tract 206.03, Block 2014 0001361
+('',)
+Census 2000 SF1 Tract 206.03, Block 2015 0001362
+('1143',)
+Census 2000 SF1 Tract 206.03, Block 2016 0001363
+('',)
+Census 2000 SF1 Tract 206.03, Block 2017 0001364
+('1440',)
+Census 2000 SF1 Tract 206.03, Block 2018 0001365
+('985',)
+Census 2000 SF1 Tract 206.03, Block 2019 0001366
+('1496',)
+Census 2000 SF1 Tract 206.03, Block 2020 0001367
+('1327',)
+Census 2000 SF1 Tract 206.03, Block 2021 0001368
+('',)
+Census 2000 SF1 Tract 206.03, Block 2022 0001369
+('554',)
+Census 2000 SF1 Tract 206.03, Block 2023 0001370
+('',)
+Census 2000 SF1 Tract 206.03, Block 2024 0001371
+('724',)
+Census 2000 SF1 Tract 206.03, Block 3000 0001376
+('',)
+Census 2000 SF1 Tract 206.03, Block 3001 0001377
+('760',)
+Census 2000 SF1 Tract 206.03, Block 3002 0001378
+('',)
+Census 2000 SF1 Tract 206.03, Block 3003 0001379
+('1234',)
+Census 2000 SF1 Tract 206.03, Block 3004 0001380
+('',)
+Census 2000 SF1 Tract 206.03, Block 3005 0001381
+('0',)
+Census 2000 SF1 Tract 206.03, Block 3006 0001382
+('',)
+Census 2000 SF1 Tract 206.03, Block 3007 0001383
+('706',)
+Census 2000 SF1 Tract 206.03, Block 3008 0001384
+('',)
+Census 2000 SF1 Tract 206.03, Block 3009 0001385
+('',)
+Census 2000 SF1 Tract 206.03, Block 3010 0001386
+('1750',)
+Census 2000 SF1 Tract 206.03, Block 3011 0001387
+('',)
+Census 2000 SF1 Tract 206.03, Block 3012 0001388
+('1914',)
+Census 2000 SF1 Tract 206.03, Block 3013 0001389
+('834',)
+Census 2000 SF1 Tract 206.03, Block 3014 0001390
+('',)
+Census 2000 SF1 Tract 206.03, Block 3015 0001391
+('89',)
+Census 2000 SF1 Tract 206.03, Block 3016 0001392
+('831',)
+Census 2000 SF1 Tract 206.03, Block 3017 0001393
+('1103',)
+Census 2000 SF1 Tract 206.03, Block 3018 0001394
+('',)
+Census 2000 SF1 Tract 206.03, Block 3019 0001395
+('636',)
+Census 2000 SF1 Tract 206.03, Block 3020 0001396
+('',)
+Census 2000 SF1 Tract 206.03, Block 3021 0001397
+('1366',)
+Census 2000 SF1 Tract 206.03, Block 3022 0001398
+('',)
+Census 2000 SF1 Tract 206.03, Block 3023 0001399
+('3078',)
+Census 2000 SF1 Tract 206.03, Block 3024 0001400
+('1187',)
+Census 2000 SF1 Tract 206.03, Block 3025 0001401
+('689',)
+Census 2000 SF1 Tract 206.03, Block 3026 0001402
+('917',)
+Census 2000 SF1 Tract 206.03, Block 3027 0001403
+('1247',)
+Census 2000 SF1 Tract 206.03, Block 3028 0001404
+('870',)
+Census 2000 SF1 Tract 206.03, Block 3029 0001405
+('858',)
+Census 2000 SF1 Tract 206.03, Block 3030 0001406
+('892',)
+Census 2000 SF1 Tract 206.03, Block 3031 0001407
+('1725',)
+Census 2000 SF1 Tract 206.03, Block 3032 0001408
+('3099',)
+Census 2000 SF1 Tract 206.03, Block 3033 0001409
+('534',)
+Census 2000 SF1 Tract 206.03, Block 3034 0001410
+('668',)
+Census 2000 SF1 Tract 206.03, Block 3035 0001411
+('1522',)
+Census 2000 SF1 Tract 206.03, Block 3036 0001412
+('965',)
+Census 2000 SF1 Tract 206.03, Block 3037 0001413
+('1412',)
+Census 2000 SF1 Tract 206.03, Block 3038 0001414
+('2394',)
+Census 2000 SF1 Tract 206.03, Block 3039 0001415
+('1689',)
+Census 2000 SF1 Tract 206.03, Block 3040 0001416
+('1426',)
+Census 2000 SF1 Tract 206.03, Block 3041 0001417
+('2064',)
+Census 2000 SF1 Tract 206.03, Block 3042 0001418
+('2493',)
+Census 2000 SF1 Tract 206.03, Block 3043 0001419
+('',)
+Census 2000 SF1 Tract 206.03, Block 3044 0001420
+('',)
+Census 2000 SF1 Tract 206.03, Block 3045 0001421
+('1885',)
+Census 2000 SF1 Tract 206.03, Block 3046 0001422
+('',)
+Census 2000 SF1 Tract 206.03, Block 3047 0001423
+('1016',)
+Census 2000 SF1 Tract 206.03, Block 3048 0001424
+('1244',)
+Census 2000 SF1 Tract 206.03, Block 3049 0001425
+('1522',)
+Census 2000 SF1 Tract 206.03, Block 3050 0001426
+('1656',)
+Census 2000 SF1 Tract 206.03, Block 3051 0001427
+('677',)
+Census 2000 SF1 Tract 206.03, Block 3052 0001428
+('',)
+Census 2000 SF3 Block Group 206.031 0000281
+('4071',)
+Census 2000 SF3 Block Group 206.032 0000282
+('6708',)
+Census 2000 SF3 Block Group 206.033 0000283
+('11',)
+ACS 2010e5 Block Group 206.031 0000733
+('2183',)
+ACS 2010e5 Block Group 206.032 0000734
+('',)
+ACS 2010e5 Block Group 206.033 0000735
+('3223',)
+Census Tract 206.04 0005613
+Census Tract 206.04 0005613
+Census 2000 SF1 Tract 206.04, Block 1000 0001435
+('1700',)
+Census 2000 SF1 Tract 206.04, Block 1001 0001436
+('',)
+Census 2000 SF1 Tract 206.04, Block 1002 0001437
+('1365',)
+Census 2000 SF1 Tract 206.04, Block 1003 0001438
+('',)
+Census 2000 SF1 Tract 206.04, Block 1004 0001439
+('568',)
+Census 2000 SF1 Tract 206.04, Block 1005 0001440
+('362',)
+Census 2000 SF1 Tract 206.04, Block 1006 0001441
+('',)
+Census 2000 SF1 Tract 206.04, Block 1007 0001442
+('100',)
+Census 2000 SF1 Tract 206.04, Block 1008 0001443
+('556',)
+Census 2000 SF1 Tract 206.04, Block 1009 0001444
+('228',)
+Census 2000 SF1 Tract 206.04, Block 1010 0001445
+(None,)
+Census 2000 SF1 Tract 206.04, Block 1011 0001446
+('1815',)
+Census 2000 SF1 Tract 206.04, Block 1012 0001447
+('0',)
+Census 2000 SF1 Tract 206.04, Block 1013 0001448
+('2251',)
+Census 2000 SF1 Tract 206.04, Block 1014 0001449
+('181',)
+Census 2000 SF1 Tract 206.04, Block 1015 0001450
+('469',)
+Census 2000 SF1 Tract 206.04, Block 1016 0001451
+('1802',)
+Census 2000 SF1 Tract 206.04, Block 1017 0001452
+('3167',)
+Census 2000 SF1 Tract 206.04, Block 1018 0001453
+('1431',)
+Census 2000 SF1 Tract 206.04, Block 1019 0001454
+('773',)
+Census 2000 SF1 Tract 206.04, Block 1020 0001455
+('947',)
+Census 2000 SF1 Tract 206.04, Block 1021 0001456
+('1105',)
+Census 2000 SF1 Tract 206.04, Block 1022 0001457
+('55',)
+Census 2000 SF1 Tract 206.04, Block 1023 0001458
+('314',)
+Census 2000 SF1 Tract 206.04, Block 1024 0001459
+('515',)
+Census 2000 SF1 Tract 206.04, Block 2000 0001466
+('',)
+Census 2000 SF1 Tract 206.04, Block 2001 0001467
+('1104',)
+Census 2000 SF1 Tract 206.04, Block 2002 0001468
+('2732',)
+Census 2000 SF1 Tract 206.04, Block 2003 0001469
+('4659',)
+Census 2000 SF1 Tract 206.04, Block 2004 0001470
+('',)
+Census 2000 SF1 Tract 206.04, Block 2005 0001471
+('',)
+Census 2000 SF1 Tract 206.04, Block 2006 0001472
+('1643',)
+Census 2000 SF1 Tract 206.04, Block 2007 0001473
+('2026',)
+Census 2000 SF1 Tract 206.04, Block 2008 0001474
+('1870',)
+Census 2000 SF1 Tract 206.04, Block 2009 0001475
+('1055',)
+Census 2000 SF1 Tract 206.04, Block 2010 0001476
+('1228',)
+Census 2000 SF1 Tract 206.04, Block 2011 0001477
+('1569',)
+Census 2000 SF1 Tract 206.04, Block 2012 0001478
+('1664',)
+Census 2000 SF1 Tract 206.04, Block 2013 0001479
+('',)
+Census 2000 SF1 Tract 206.04, Block 2014 0001480
+('1074',)
+Census 2000 SF1 Tract 206.04, Block 2015 0001481
+('1257',)
+Census 2000 SF1 Tract 206.04, Block 2016 0001482
+('0',)
+Census 2000 SF1 Tract 206.04, Block 2017 0001483
+('0',)
+Census 2000 SF1 Tract 206.04, Block 2018 0001484
+('',)
+Census 2000 SF1 Tract 206.04, Block 2019 0001485
+('1700',)
+Census 2000 SF1 Tract 206.04, Block 2020 0001486
+('112',)
+Census 2000 SF1 Tract 206.04, Block 2021 0001487
+('19391',)
+Census 2000 SF1 Tract 206.04, Block 2022 0001488
+('74',)
+Census 2000 SF1 Tract 206.04, Block 2023 0001489
+('0',)
+Census 2000 SF1 Tract 206.04, Block 2024 0001490
+('80580',)
+Census 2000 SF1 Tract 206.04, Block 2025 0001491
+('7820',)
+Census 2000 SF1 Tract 206.04, Block 2026 0001492
+('47491',)
+Census 2000 SF1 Tract 206.04, Block 2027 0001493
+('56',)
+Census 2000 SF1 Tract 206.04, Block 2028 0001494
+('925',)
+Census 2000 SF1 Tract 206.04, Block 2029 0001495
+('8767',)
+Census 2000 SF1 Tract 206.04, Block 2030 0001496
+('',)
+Census 2000 SF1 Tract 206.04, Block 3000 0001498
+('137',)
+Census 2000 SF1 Tract 206.04, Block 3001 0001499
+('6126',)
+Census 2000 SF1 Tract 206.04, Block 3002 0001500
+('',)
+Census 2000 SF1 Tract 206.04, Block 3003 0001501
+('380',)
+Census 2000 SF1 Tract 206.04, Block 3004 0001502
+('3489',)
+Census 2000 SF1 Tract 206.04, Block 3005 0001503
+('24957',)
+Census 2000 SF1 Tract 206.04, Block 3006 0001504
+('11637',)
+Census 2000 SF1 Tract 206.04, Block 3007 0001505
+('',)
+Census 2000 SF1 Tract 206.04, Block 3008 0001506
+('',)
+Census 2000 SF1 Tract 206.04, Block 3009 0001507
+('178286',)
+Census 2000 SF1 Tract 206.04, Block 3010 0001508
+('471',)
+Census 2000 SF1 Tract 206.04, Block 3011 0001509
+('7296',)
+Census 2000 SF1 Tract 206.04, Block 3012 0001510
+('',)
+Census 2000 SF1 Tract 206.04, Block 3013 0001511
+('9021',)
+Census 2000 SF1 Tract 206.04, Block 3014 0001512
+('0',)
+Census 2000 SF1 Tract 206.04, Block 3015 0001513
+('259',)
+Census 2000 SF1 Tract 206.04, Block 3016 0001514
+('499',)
+Census 2000 SF1 Tract 206.04, Block 3017 0001515
+('17552',)
+Census 2000 SF1 Tract 206.04, Block 3018 0001516
+('41682',)
+Census 2000 SF1 Tract 206.04, Block 3019 0001517
+('169',)
+Census 2000 SF1 Tract 206.04, Block 3020 0001518
+('1642',)
+Census 2000 SF1 Tract 206.04, Block 3021 0001519
+('1700',)
+Census 2000 SF1 Tract 206.04, Block 3022 0001520
+('1253',)
+Census 2000 SF1 Tract 206.04, Block 3023 0001521
+('58',)
+Census 2000 SF1 Tract 206.04, Block 3024 0001522
+('1483',)
+Census 2000 SF1 Tract 206.04, Block 3025 0001523
+('219',)
+Census 2000 SF1 Tract 206.04, Block 3026 0001524
+('1283',)
+Census 2000 SF1 Tract 206.04, Block 3027 0001525
+('7820',)
+Census 2000 SF1 Tract 206.04, Block 3028 0001526
+('47491',)
+Census 2000 SF1 Tract 206.04, Block 3029 0001527
+('74',)
+Census 2000 SF1 Tract 206.04, Block 3030 0001528
+('',)
+Census 2000 SF1 Tract 206.04, Block 3031 0001529
+('8767',)
+Census 2000 SF1 Tract 206.04, Block 3032 0001530
+('1425',)
+Census 2000 SF1 Tract 206.04, Block 3033 0001531
+('2153',)
+Census 2000 SF1 Tract 206.04, Block 3034 0001532
+('',)
+Census 2000 SF1 Tract 206.04, Block 3035 0001533
+('6126',)
+Census 2000 SF1 Tract 206.04, Block 3036 0001534
+('2005',)
+Census 2000 SF1 Tract 206.04, Block 3037 0001535
+('',)
+Census 2000 SF1 Tract 206.04, Block 3038 0001536
+('3489',)
+Census 2000 SF1 Tract 206.04, Block 3039 0001537
+('104',)
+Census 2000 SF1 Tract 206.04, Block 3040 0001538
+('11637',)
+Census 2000 SF1 Tract 206.04, Block 3041 0001539
+('1436',)
+Census 2000 SF1 Tract 206.04, Block 3042 0001540
+('71662',)
+Census 2000 SF1 Tract 206.04, Block 3043 0001541
+('178286',)
+Census 2000 SF1 Tract 206.04, Block 3044 0001542
+('471',)
+Census 2000 SF1 Tract 206.04, Block 3045 0001543
+('7296',)
+Census 2000 SF1 Tract 206.04, Block 3046 0001544
+('0',)
+Census 2000 SF1 Tract 206.04, Block 3047 0001545
+('9021',)
+Census 2000 SF1 Tract 206.04, Block 3048 0001546
+('83676',)
+Census 2000 SF1 Tract 206.04, Block 3049 0001547
+('259',)
+Census 2000 SF1 Tract 206.04, Block 3050 0001548
+('',)
+Census 2000 SF1 Tract 206.04, Block 3051 0001549
+('17552',)
+Census 2000 SF1 Tract 206.04, Block 3052 0001550
+('41682',)
+Census 2000 SF1 Tract 206.04, Block 3053 0001551
+('',)
+Census 2000 SF1 Tract 206.04, Block 3054 0001552
+('',)
+Census 2000 SF3 Block Group 206.041 0000286
+('',)
+Census 2000 SF3 Block Group 206.043 0000288
+('3973',)
+Census 2000 SF3 Block Group 206.042 0000287
+('3038',)
+ACS 2010e5 Block Group 206.041 0000736
+('1762',)
+ACS 2010e5 Block Group 206.043 0000738
+('2246',)
+ACS 2010e5 Block Group 206.042 0000737
+('960',)
+Census Tract 207.01 0005617
+Census Tract 207.01 0005617
+Census 2000 SF1 Tract 207.01, Block 3000 0001561
+('50501',)
+Census 2000 SF1 Tract 207.01, Block 3001 0001562
+('4644',)
+Census 2000 SF1 Tract 207.01, Block 3002 0001563
+('470',)
+Census 2000 SF1 Tract 207.01, Block 3003 0001564
+('49380',)
+Census 2000 SF1 Tract 207.01, Block 3004 0001565
+('126987',)
+Census 2000 SF1 Tract 207.01, Block 3005 0001566
+('1056389',)
+Census 2000 SF1 Tract 207.01, Block 3006 0001567
+('',)
+Census 2000 SF1 Tract 207.01, Block 3007 0001568
+('',)
+Census 2000 SF1 Tract 207.01, Block 3008 0001569
+('0',)
+Census 2000 SF1 Tract 207.01, Block 3009 0001570
+('50501',)
+Census 2000 SF1 Tract 207.01, Block 3010 0001571
+('167235',)
+Census 2000 SF1 Tract 207.01, Block 3011 0001572
+('83253',)
+Census 2000 SF1 Tract 207.01, Block 3012 0001573
+('113305',)
+Census 2000 SF1 Tract 207.01, Block 3013 0001574
+('11721',)
+Census 2000 SF1 Tract 207.01, Block 3014 0001575
+('1056389',)
+Census 2000 SF1 Tract 207.01, Block 3015 0001576
+('',)
+Census 2000 SF1 Tract 207.01, Block 3016 0001577
+('1032526',)
+Census 2000 SF1 Tract 207.01, Block 3017 0001578
+('',)
+Census 2000 SF1 Tract 207.01, Block 3018 0001579
+('61250',)
+Census 2000 SF1 Tract 207.01, Block 3019 0001580
+('1056389',)
+Census 2000 SF1 Tract 207.01, Block 3020 0001581
+('1032526',)
+Census 2000 SF1 Tract 207.01, Block 3021 0001582
+('18597',)
+Census 2000 SF1 Tract 207.01, Block 3022 0001583
+('22949',)
+Census 2000 SF1 Tract 207.01, Block 3023 0001584
+('59152',)
+Census 2000 SF1 Tract 207.01, Block 3024 0001585
+('80580',)
+Census 2000 SF1 Tract 207.01, Block 3025 0001586
+('178286',)
+Census 2000 SF1 Tract 207.01, Block 3026 0001587
+('155',)
+Census 2000 SF1 Tract 207.01, Block 3027 0001588
+('22949',)
+Census 2000 SF1 Tract 207.01, Block 3028 0001589
+('50501',)
+Census 2000 SF1 Tract 207.01, Block 3029 0001590
+('167235',)
+Census 2000 SF1 Tract 207.01, Block 3030 0001591
+('83253',)
+Census 2000 SF1 Tract 207.01, Block 3031 0001592
+('628413',)
+Census 2000 SF1 Tract 207.01, Block 3032 0001593
+('103124',)
+Census 2000 SF1 Tract 207.01, Block 3033 0001594
+('22949',)
+Census 2000 SF1 Tract 207.01, Block 3034 0001595
+('16501',)
+Census 2000 SF1 Tract 207.01, Block 3035 0001596
+('23189',)
+Census 2000 SF1 Tract 207.01, Block 3036 0001597
+('9',)
+Census 2000 SF1 Tract 207.01, Block 3037 0001598
+('35040',)
+Census 2000 SF1 Tract 207.01, Block 3038 0001599
+('0',)
+Census 2000 SF1 Tract 207.01, Block 3039 0001600
+('83676',)
+Census 2000 SF1 Tract 207.01, Block 3040 0001601
+('5974',)
+Census 2000 SF1 Tract 207.01, Block 3041 0001602
+('29358',)
+Census 2000 SF1 Tract 207.01, Block 3042 0001603
+('5436',)
+Census 2000 SF1 Tract 207.01, Block 3043 0001604
+('1363',)
+Census 2000 SF1 Tract 207.01, Block 3044 0001605
+('16362',)
+Census 2000 SF1 Tract 207.01, Block 3045 0001606
+('24957',)
+Census 2000 SF1 Tract 207.01, Block 3046 0001607
+('17316',)
+Census 2000 SF1 Tract 207.01, Block 3047 0001608
+('1217',)
+Census 2000 SF1 Tract 207.01, Block 3048 0001609
+('15971',)
+Census 2000 SF1 Tract 207.01, Block 3049 0001610
+('',)
+Census 2000 SF1 Tract 207.01, Block 3050 0001611
+('80580',)
+Census 2000 SF1 Tract 207.01, Block 3051 0001612
+('',)
+Census 2000 SF1 Tract 207.01, Block 3052 0001613
+('555',)
+Census 2000 SF1 Tract 207.01, Block 3053 0001614
+('0',)
+Census 2000 SF1 Tract 207.01, Block 3054 0001615
+('0',)
+Census 2000 SF1 Tract 207.01, Block 3055 0001616
+('',)
+Census 2000 SF1 Tract 207.01, Block 3056 0001617
+('21120',)
+Census 2000 SF1 Tract 207.01, Block 3057 0001618
+('173',)
+Census 2000 SF1 Tract 207.01, Block 3058 0001619
+('11768',)
+Census 2000 SF1 Tract 207.01, Block 3059 0001620
+('',)
+Census 2000 SF1 Tract 207.01, Block 3060 0001621
+('178286',)
+Census 2000 SF1 Tract 207.01, Block 3061 0001622
+('10337',)
+Census 2000 SF1 Tract 207.01, Block 3062 0001623
+('21477',)
+Census 2000 SF1 Tract 207.01, Block 3063 0001624
+('30',)
+Census 2000 SF1 Tract 207.01, Block 3064 0001625
+('7876',)
+Census 2000 SF1 Tract 207.01, Block 3065 0001626
+('674',)
+Census 2000 SF1 Tract 207.01, Block 3066 0001627
+('2508',)
+Census 2000 SF1 Tract 207.01, Block 3067 0001628
+('16034',)
+Census 2000 SF1 Tract 207.01, Block 3068 0001629
+('26611',)
+Census 2000 SF1 Tract 207.01, Block 3069 0001630
+('',)
+Census 2000 SF1 Tract 207.01, Block 3070 0001631
+('43585',)
+Census 2000 SF1 Tract 207.01, Block 3071 0001632
+('22949',)
+Census 2000 SF1 Tract 207.01, Block 3072 0001633
+('1032526',)
+Census 2000 SF1 Tract 207.01, Block 3999 0001636
+('83676',)
+Census 2000 SF3 Block Group 207.013 0000291
+('5110',)
+ACS 2010e5 Block Group 207.013 None
+Census Tract 207.02 0005619
+Census Tract 207.02 0005619
+Census 2000 SF1 Tract 207.02, Block 2000 0001639
+('',)
+Census 2000 SF1 Tract 207.02, Block 2001 0001640
+('83253',)
+Census 2000 SF1 Tract 207.02, Block 2002 0001641
+('628413',)
+Census 2000 SF1 Tract 207.02, Block 2003 0001642
+('2026',)
+Census 2000 SF1 Tract 207.02, Block 2004 0001643
+('244',)
+Census 2000 SF1 Tract 207.02, Block 2005 0001644
+('',)
+Census 2000 SF1 Tract 207.02, Block 2006 0001645
+('28',)
+Census 2000 SF1 Tract 207.02, Block 2007 0001646
+('3435',)
+Census 2000 SF1 Tract 207.02, Block 2008 0001647
+('35040',)
+Census 2000 SF1 Tract 207.02, Block 2009 0001648
+('13187',)
+Census 2000 SF1 Tract 207.02, Block 2010 0001649
+('',)
+Census 2000 SF1 Tract 207.02, Block 2011 0001650
+('5974',)
+Census 2000 SF1 Tract 207.02, Block 2012 0001651
+('29358',)
+Census 2000 SF1 Tract 207.02, Block 2013 0001652
+('5436',)
+Census 2000 SF1 Tract 207.02, Block 2014 0001653
+('0',)
+Census 2000 SF1 Tract 207.02, Block 2015 0001654
+('',)
+Census 2000 SF1 Tract 207.02, Block 2016 0001655
+('24957',)
+Census 2000 SF1 Tract 207.02, Block 2017 0001656
+('',)
+Census 2000 SF1 Tract 207.02, Block 2018 0001657
+('15674',)
+Census 2000 SF1 Tract 207.02, Block 2019 0001658
+('54167',)
+Census 2000 SF1 Tract 207.02, Block 2020 0001659
+('331',)
+Census 2000 SF1 Tract 207.02, Block 2021 0001660
+('80580',)
+Census 2000 SF1 Tract 207.02, Block 2022 0001661
+('33291',)
+Census 2000 SF1 Tract 207.02, Block 2023 0001662
+('',)
+Census 2000 SF1 Tract 207.02, Block 2024 0001663
+('4556',)
+Census 2000 SF1 Tract 207.02, Block 2025 0001664
+('9805',)
+Census 2000 SF1 Tract 207.02, Block 2026 0001665
+('',)
+Census 2000 SF1 Tract 207.02, Block 2027 0001666
+('21120',)
+Census 2000 SF1 Tract 207.02, Block 2028 0001667
+('4706',)
+Census 2000 SF1 Tract 207.02, Block 2029 0001668
+('11768',)
+Census 2000 SF1 Tract 207.02, Block 2030 0001669
+('71662',)
+Census 2000 SF1 Tract 207.02, Block 2031 0001670
+('178286',)
+Census 2000 SF1 Tract 207.02, Block 2032 0001671
+('10337',)
+Census 2000 SF1 Tract 207.02, Block 2033 0001672
+('',)
+Census 2000 SF1 Tract 207.02, Block 2034 0001673
+('41682',)
+Census 2000 SF1 Tract 207.02, Block 2035 0001674
+('',)
+Census 2000 SF1 Tract 207.02, Block 2036 0001675
+('0',)
+Census 2000 SF1 Tract 207.02, Block 2037 0001676
+('',)
+Census 2000 SF1 Tract 207.02, Block 2038 0001677
+('16034',)
+Census 2000 SF1 Tract 207.02, Block 2039 0001678
+('26611',)
+Census 2000 SF1 Tract 207.02, Block 2040 0001679
+('',)
+Census 2000 SF1 Tract 207.02, Block 2041 0001680
+('30226',)
+Census 2000 SF1 Tract 207.02, Block 2997 0001682
+('533014',)
+Census 2000 SF1 Tract 207.02, Block 2999 0001684
+('83253',)
+Census 2000 SF1 Tract 207.02, Block 5000 0001686
+('167235',)
+Census 2000 SF1 Tract 207.02, Block 5001 0001687
+('41181',)
+Census 2000 SF1 Tract 207.02, Block 5002 0001688
+('126987',)
+Census 2000 SF1 Tract 207.02, Block 5003 0001689
+('1',)
+Census 2000 SF1 Tract 207.02, Block 5004 0001690
+('0',)
+Census 2000 SF1 Tract 207.02, Block 5005 0001691
+('27470',)
+Census 2000 SF1 Tract 207.02, Block 5006 0001692
+('30538',)
+Census 2000 SF1 Tract 207.02, Block 5007 0001693
+('29930',)
+Census 2000 SF1 Tract 207.02, Block 5008 0001694
+('25982',)
+Census 2000 SF1 Tract 207.02, Block 5009 0001695
+('29415',)
+Census 2000 SF1 Tract 207.02, Block 5010 0001696
+('',)
+Census 2000 SF1 Tract 207.02, Block 5011 0001697
+('0',)
+Census 2000 SF1 Tract 207.02, Block 5012 0001698
+('25893',)
+Census 2000 SF1 Tract 207.02, Block 5013 0001699
+('27192',)
+Census 2000 SF1 Tract 207.02, Block 5014 0001700
+('26259',)
+Census 2000 SF1 Tract 207.02, Block 5015 0001701
+('27325',)
+Census 2000 SF1 Tract 207.02, Block 5016 0001702
+('27085',)
+Census 2000 SF1 Tract 207.02, Block 5017 0001703
+('26767',)
+Census 2000 SF1 Tract 207.02, Block 5018 0001704
+('509',)
+Census 2000 SF1 Tract 207.02, Block 5019 0001705
+('28139',)
+Census 2000 SF1 Tract 207.02, Block 5020 0001706
+('27450',)
+Census 2000 SF1 Tract 207.02, Block 5021 0001707
+('24429',)
+Census 2000 SF1 Tract 207.02, Block 5022 0001708
+('29776',)
+Census 2000 SF1 Tract 207.02, Block 5023 0001709
+('552',)
+Census 2000 SF1 Tract 207.02, Block 5024 0001710
+('0',)
+Census 2000 SF1 Tract 207.02, Block 5025 0001711
+('29016',)
+Census 2000 SF1 Tract 207.02, Block 5026 0001712
+('28570',)
+Census 2000 SF1 Tract 207.02, Block 5027 0001713
+('26590',)
+Census 2000 SF1 Tract 207.02, Block 5028 0001714
+('28752',)
+Census 2000 SF1 Tract 207.02, Block 5029 0001715
+('26837',)
+Census 2000 SF1 Tract 207.02, Block 5030 0001716
+(None,)
+Census 2000 SF1 Tract 207.02, Block 5031 0001717
+('27243',)
+Census 2000 SF1 Tract 207.02, Block 5032 0001718
+('26042',)
+Census 2000 SF1 Tract 207.02, Block 5033 0001719
+('26',)
+Census 2000 SF1 Tract 207.02, Block 5034 0001720
+('27202',)
+Census 2000 SF1 Tract 207.02, Block 5035 0001721
+('28111',)
+Census 2000 SF1 Tract 207.02, Block 5036 0001722
+('27738',)
+Census 2000 SF1 Tract 207.02, Block 5997 0001723
+('30401',)
+Census 2000 SF3 Block Group 207.025 0000295
+('2532',)
+Census 2000 SF3 Block Group 207.022 0000294
+('2172',)
+ACS 2010e5 Block Group 207.025 None
+ACS 2010e5 Block Group 207.022 0000741
+('2763',)
+Census Tract 207.03 0005622
+Census Tract 207.03 0005622
+Census 2000 SF1 Tract 207.03, Block 1000 0001728
+('28765',)
+Census 2000 SF1 Tract 207.03, Block 1001 0001729
+('0',)
+Census 2000 SF1 Tract 207.03, Block 1002 0001730
+('',)
+Census 2000 SF1 Tract 207.03, Block 1003 0001731
+('29930',)
+Census 2000 SF1 Tract 207.03, Block 1004 0001732
+('25982',)
+Census 2000 SF1 Tract 207.03, Block 1005 0001733
+('29415',)
+Census 2000 SF1 Tract 207.03, Block 1006 0001734
+('28272',)
+Census 2000 SF1 Tract 207.03, Block 1007 0001735
+('28096',)
+Census 2000 SF1 Tract 207.03, Block 1008 0001736
+('',)
+Census 2000 SF1 Tract 207.03, Block 1009 0001737
+('15665',)
+Census 2000 SF1 Tract 207.03, Block 1010 0001738
+('',)
+Census 2000 SF1 Tract 207.03, Block 1011 0001739
+('8943',)
+Census 2000 SF1 Tract 207.03, Block 1012 0001740
+('17316',)
+Census 2000 SF1 Tract 207.03, Block 1013 0001741
+('27325',)
+Census 2000 SF1 Tract 207.03, Block 1014 0001742
+('27085',)
+Census 2000 SF1 Tract 207.03, Block 1015 0001743
+('26767',)
+Census 2000 SF1 Tract 207.03, Block 1016 0001744
+('27738',)
+Census 2000 SF1 Tract 207.03, Block 1017 0001745
+('28139',)
+Census 2000 SF1 Tract 207.03, Block 1018 0001746
+('27450',)
+Census 2000 SF1 Tract 207.03, Block 1019 0001747
+('24429',)
+Census 2000 SF1 Tract 207.03, Block 1020 0001748
+('98611',)
+Census 2000 SF1 Tract 207.03, Block 1021 0001749
+('',)
+Census 2000 SF1 Tract 207.03, Block 1022 0001750
+('25228',)
+Census 2000 SF1 Tract 207.03, Block 1023 0001751
+('29016',)
+Census 2000 SF1 Tract 207.03, Block 1024 0001752
+('',)
+Census 2000 SF1 Tract 207.03, Block 1025 0001753
+('11697',)
+Census 2000 SF1 Tract 207.03, Block 1026 0001754
+('14893',)
+Census 2000 SF1 Tract 207.03, Block 1027 0001755
+('28752',)
+Census 2000 SF1 Tract 207.03, Block 1028 0001756
+('158',)
+Census 2000 SF1 Tract 207.03, Block 1029 0001757
+('29436',)
+Census 2000 SF1 Tract 207.03, Block 1030 0001758
+('2936',)
+Census 2000 SF1 Tract 207.03, Block 1031 0001759
+('',)
+Census 2000 SF1 Tract 207.03, Block 1032 0001760
+('26042',)
+Census 2000 SF1 Tract 207.03, Block 1999 0001763
+('0',)
+Census 2000 SF1 Tract 207.03, Block 9000 0001765
+('5974',)
+Census 2000 SF1 Tract 207.03, Block 9001 0001766
+('24427',)
+Census 2000 SF1 Tract 207.03, Block 9002 0001767
+('11922',)
+Census 2000 SF1 Tract 207.03, Block 9003 0001768
+('4916',)
+Census 2000 SF1 Tract 207.03, Block 9004 0001769
+('10',)
+Census 2000 SF1 Tract 207.03, Block 9005 0001770
+('31140',)
+Census 2000 SF1 Tract 207.03, Block 9006 0001771
+('33',)
+Census 2000 SF1 Tract 207.03, Block 9007 0001772
+('0',)
+Census 2000 SF1 Tract 207.03, Block 9008 0001773
+('13847',)
+Census 2000 SF1 Tract 207.03, Block 9009 0001774
+('13522',)
+Census 2000 SF1 Tract 207.03, Block 9010 0001775
+('13000',)
+Census 2000 SF1 Tract 207.03, Block 9011 0001776
+('15968',)
+Census 2000 SF1 Tract 207.03, Block 9012 0001777
+('14966',)
+Census 2000 SF1 Tract 207.03, Block 9013 0001778
+('1246',)
+Census 2000 SF1 Tract 207.03, Block 9014 0001779
+('12909',)
+Census 2000 SF1 Tract 207.03, Block 9015 0001780
+('14618',)
+Census 2000 SF1 Tract 207.03, Block 9016 0001781
+('15238',)
+Census 2000 SF1 Tract 207.03, Block 9017 0001782
+('4036',)
+Census 2000 SF1 Tract 207.03, Block 9018 0001783
+('15584',)
+Census 2000 SF1 Tract 207.03, Block 9019 0001784
+('15665',)
+Census 2000 SF1 Tract 207.03, Block 9020 0001785
+('13122',)
+Census 2000 SF1 Tract 207.03, Block 9021 0001786
+('0',)
+Census 2000 SF1 Tract 207.03, Block 9022 0001787
+('16820',)
+Census 2000 SF1 Tract 207.03, Block 9023 0001788
+('11',)
+Census 2000 SF1 Tract 207.03, Block 9024 0001789
+('14887',)
+Census 2000 SF1 Tract 207.03, Block 9025 0001790
+('',)
+Census 2000 SF1 Tract 207.03, Block 9026 0001791
+('13691',)
+Census 2000 SF1 Tract 207.03, Block 9027 0001792
+('14425',)
+Census 2000 SF1 Tract 207.03, Block 9028 0001793
+('291',)
+Census 2000 SF1 Tract 207.03, Block 9029 0001794
+('12920',)
+Census 2000 SF1 Tract 207.03, Block 9030 0001795
+('14529',)
+Census 2000 SF1 Tract 207.03, Block 9031 0001796
+('0',)
+Census 2000 SF1 Tract 207.03, Block 9032 0001797
+('14297',)
+Census 2000 SF1 Tract 207.03, Block 9033 0001798
+('0',)
+Census 2000 SF1 Tract 207.03, Block 9034 0001799
+('14788',)
+Census 2000 SF1 Tract 207.03, Block 9035 0001800
+('14988',)
+Census 2000 SF1 Tract 207.03, Block 9036 0001801
+('14105',)
+Census 2000 SF1 Tract 207.03, Block 9037 0001802
+('14306',)
+Census 2000 SF1 Tract 207.03, Block 9038 0001803
+('12710',)
+Census 2000 SF1 Tract 207.03, Block 9039 0001804
+('153',)
+Census 2000 SF1 Tract 207.03, Block 9040 0001805
+('',)
+Census 2000 SF1 Tract 207.03, Block 9041 0001806
+('14515',)
+Census 2000 SF1 Tract 207.03, Block 9042 0001807
+('26',)
+Census 2000 SF1 Tract 207.03, Block 9043 0001808
+('14019',)
+Census 2000 SF1 Tract 207.03, Block 9044 0001809
+('15298',)
+Census 2000 SF1 Tract 207.03, Block 9045 0001810
+('',)
+Census 2000 SF1 Tract 207.03, Block 9046 0001811
+('',)
+Census 2000 SF1 Tract 207.03, Block 9047 0001812
+('14821',)
+Census 2000 SF1 Tract 207.03, Block 9048 0001813
+('0',)
+Census 2000 SF1 Tract 207.03, Block 9049 0001814
+('12997',)
+Census 2000 SF1 Tract 207.03, Block 9050 0001815
+('3245',)
+Census 2000 SF1 Tract 207.03, Block 9051 0001816
+('2567',)
+Census 2000 SF1 Tract 207.03, Block 9052 0001817
+('14631',)
+Census 2000 SF1 Tract 207.03, Block 9053 0001818
+('53438',)
+Census 2000 SF1 Tract 207.03, Block 9054 0001819
+('14429',)
+Census 2000 SF1 Tract 207.03, Block 9055 0001820
+('281',)
+Census 2000 SF1 Tract 207.03, Block 9056 0001821
+('',)
+Census 2000 SF1 Tract 207.03, Block 9057 0001822
+('13764',)
+Census 2000 SF1 Tract 207.03, Block 9058 0001823
+('15857',)
+Census 2000 SF1 Tract 207.03, Block 9059 0001824
+('',)
+Census 2000 SF1 Tract 207.03, Block 9060 0001825
+('150',)
+Census 2000 SF1 Tract 207.03, Block 9061 0001826
+('13264',)
+Census 2000 SF1 Tract 207.03, Block 9062 0001827
+('14592',)
+Census 2000 SF1 Tract 207.03, Block 9063 0001828
+('15318',)
+Census 2000 SF1 Tract 207.03, Block 9064 0001829
+('13416',)
+Census 2000 SF1 Tract 207.03, Block 9065 0001830
+('0',)
+Census 2000 SF1 Tract 207.03, Block 9066 0001831
+('14729',)
+Census 2000 SF1 Tract 207.03, Block 9067 0001832
+('',)
+Census 2000 SF1 Tract 207.03, Block 9068 0001833
+('0',)
+Census 2000 SF1 Tract 207.03, Block 9069 0001834
+('13595',)
+Census 2000 SF1 Tract 207.03, Block 9070 0001835
+('0',)
+Census 2000 SF1 Tract 207.03, Block 9071 0001836
+('0',)
+Census 2000 SF1 Tract 207.03, Block 9072 0001837
+('13777',)
+Census 2000 SF1 Tract 207.03, Block 9073 0001838
+('12565',)
+Census 2000 SF1 Tract 207.03, Block 9074 0001839
+('14166',)
+Census 2000 SF1 Tract 207.03, Block 9075 0001840
+('0',)
+Census 2000 SF1 Tract 207.03, Block 9999 0001852
+('14966',)
+Census 2000 SF3 Block Group 207.031 0000301
+('2680',)
+Census 2000 SF3 Block Group 207.039 0000302
+('3029',)
+ACS 2010e5 Block Group 207.031 0000742
+('2406',)
+ACS 2010e5 Block Group 207.039 None
+Census Tract 208 0005626
+Census Tract 208 0005626
+Census 2000 SF1 Tract 208.00, Block 2000 0004391
+Census 2000 SF1 Tract 208.00, Block 2001 0004392
+Census 2000 SF1 Tract 208.00, Block 2002 0004393
+Census 2000 SF1 Tract 208.00, Block 2003 0004394
+Census 2000 SF1 Tract 208.00, Block 2004 0004395
+Census 2000 SF1 Tract 208.00, Block 2005 0004396
+Census 2000 SF1 Tract 208.00, Block 2006 0004397
+Census 2000 SF1 Tract 208.00, Block 2007 0004398
+Census 2000 SF1 Tract 208.00, Block 2008 0004399
+Census 2000 SF1 Tract 208.00, Block 2009 0004400
+Census 2000 SF1 Tract 208.00, Block 2010 0004401
+Census 2000 SF1 Tract 208.00, Block 2011 0004402
+Census 2000 SF1 Tract 208.00, Block 2012 0004403
+Census 2000 SF1 Tract 208.00, Block 2013 0004404
+Census 2000 SF1 Tract 208.00, Block 2014 0004405
+Census 2000 SF1 Tract 208.00, Block 2015 0004406
+Census 2000 SF1 Tract 208.00, Block 2016 0004407
+Census 2000 SF1 Tract 208.00, Block 2017 0004408
+Census 2000 SF1 Tract 208.00, Block 2018 0004409
+Census 2000 SF1 Tract 208.00, Block 2019 0004410
+Census 2000 SF1 Tract 208.00, Block 2020 0004411
+Census 2000 SF1 Tract 208.00, Block 2021 0004412
+Census 2000 SF1 Tract 208.00, Block 2022 0004413
+Census 2000 SF1 Tract 208.00, Block 2023 0004414
+Census 2000 SF1 Tract 208.00, Block 2024 0004415
+Census 2000 SF1 Tract 208.00, Block 2025 0004416
+Census 2000 SF1 Tract 208.00, Block 2026 0004417
+Census 2000 SF1 Tract 208.00, Block 2027 0004418
+Census 2000 SF1 Tract 208.00, Block 2028 0004419
+Census 2000 SF1 Tract 208.00, Block 2029 0004420
+Census 2000 SF1 Tract 208.00, Block 2030 0004421
+Census 2000 SF1 Tract 208.00, Block 2031 0004422
+Census 2000 SF1 Tract 208.00, Block 2032 0004423
+Census 2000 SF1 Tract 208.00, Block 2033 0004424
+Census 2000 SF1 Tract 208.00, Block 2034 0004425
+Census 2000 SF1 Tract 208.00, Block 2035 0004426
+Census 2000 SF1 Tract 208.00, Block 2036 0004427
+Census 2000 SF1 Tract 208.00, Block 2037 0004428
+Census 2000 SF1 Tract 208.00, Block 2038 0004429
+Census 2000 SF1 Tract 208.00, Block 2039 0004430
+Census 2000 SF1 Tract 208.00, Block 2040 0004431
+Census 2000 SF1 Tract 208.00, Block 2041 0004432
+Census 2000 SF1 Tract 208.00, Block 2042 0004433
+Census 2000 SF1 Tract 208.00, Block 2043 0004434
+Census 2000 SF1 Tract 208.00, Block 2044 0004435
+Census 2000 SF1 Tract 208.00, Block 2045 0004436
+Census 2000 SF1 Tract 208.00, Block 2046 0004437
+Census 2000 SF1 Tract 208.00, Block 2047 0004438
+Census 2000 SF1 Tract 208.00, Block 2048 0004439
+Census 2000 SF1 Tract 208.00, Block 3000 0004447
+Census 2000 SF1 Tract 208.00, Block 3001 0004448
+Census 2000 SF1 Tract 208.00, Block 3002 0004449
+Census 2000 SF1 Tract 208.00, Block 3003 0004450
+Census 2000 SF1 Tract 208.00, Block 3004 0004451
+Census 2000 SF1 Tract 208.00, Block 3005 0004452
+Census 2000 SF1 Tract 208.00, Block 3006 0004453
+Census 2000 SF1 Tract 208.00, Block 3007 0004454
+Census 2000 SF1 Tract 208.00, Block 3008 0004455
+Census 2000 SF1 Tract 208.00, Block 3009 0004456
+Census 2000 SF1 Tract 208.00, Block 3010 0004457
+Census 2000 SF1 Tract 208.00, Block 3011 0004458
+Census 2000 SF1 Tract 208.00, Block 3012 0004459
+Census 2000 SF1 Tract 208.00, Block 3013 0004460
+Census 2000 SF1 Tract 208.00, Block 3014 0004461
+Census 2000 SF1 Tract 208.00, Block 3015 0004462
+Census 2000 SF1 Tract 208.00, Block 3016 0004463
+Census 2000 SF1 Tract 208.00, Block 3017 0004464
+Census 2000 SF1 Tract 208.00, Block 3018 0004465
+Census 2000 SF1 Tract 208.00, Block 3019 0004466
+Census 2000 SF1 Tract 208.00, Block 3020 0004467
+Census 2000 SF1 Tract 208.00, Block 3021 0004468
+Census 2000 SF1 Tract 208.00, Block 3022 0004469
+Census 2000 SF1 Tract 208.00, Block 3023 0004470
+Census 2000 SF1 Tract 208.00, Block 3024 0004471
+Census 2000 SF1 Tract 208.00, Block 3025 0004472
+Census 2000 SF1 Tract 208.00, Block 3026 0004473
+Census 2000 SF1 Tract 208.00, Block 3027 0004474
+Census 2000 SF1 Tract 208.00, Block 3028 0004475
+Census 2000 SF1 Tract 208.00, Block 3029 0004476
+Census 2000 SF1 Tract 208.00, Block 3030 0004477
+Census 2000 SF1 Tract 208.00, Block 3031 0004478
+Census 2000 SF1 Tract 208.00, Block 3032 0004479
+Census 2000 SF1 Tract 208.00, Block 3033 0004480
+Census 2000 SF1 Tract 208.00, Block 3034 0004481
+Census 2000 SF1 Tract 208.00, Block 3035 0004482
+Census 2000 SF1 Tract 208.00, Block 3036 0004483
+Census 2000 SF1 Tract 208.00, Block 3037 0004484
+Census 2000 SF1 Tract 208.00, Block 3038 0004485
+Census 2000 SF1 Tract 208.00, Block 3039 0004486
+Census 2000 SF1 Tract 208.00, Block 3040 0004487
+Census 2000 SF1 Tract 208.00, Block 3041 0004488
+Census 2000 SF1 Tract 208.00, Block 3042 0004489
+Census 2000 SF1 Tract 208.00, Block 3043 0004490
+Census 2000 SF1 Tract 208.00, Block 3044 0004491
+Census 2000 SF1 Tract 208.00, Block 3045 0004492
+Census 2000 SF1 Tract 208.00, Block 3046 0004493
+Census 2000 SF1 Tract 208.00, Block 3047 0004494
+Census 2000 SF1 Tract 208.00, Block 3048 0004495
+Census 2000 SF1 Tract 208.00, Block 3049 0004496
+Census 2000 SF1 Tract 208.00, Block 3050 0004497
+Census 2000 SF1 Tract 208.00, Block 3051 0004498
+Census 2000 SF1 Tract 208.00, Block 3052 0004499
+Census 2000 SF1 Tract 208.00, Block 3053 0004500
+Census 2000 SF1 Tract 208.00, Block 3054 0004501
+Census 2000 SF1 Tract 208.00, Block 3055 0004502
+Census 2000 SF1 Tract 208.00, Block 3056 0004503
+Census 2000 SF1 Tract 208.00, Block 3057 0004504
+Census 2000 SF1 Tract 208.00, Block 3058 0004505
+Census 2000 SF1 Tract 208.00, Block 3059 0004506
+Census 2000 SF1 Tract 208.00, Block 3060 0004507
+Census 2000 SF1 Tract 208.00, Block 3061 0004508
+Census 2000 SF1 Tract 208.00, Block 3062 0004509
+Census 2000 SF1 Tract 208.00, Block 3063 0004510
+Census 2000 SF1 Tract 208.00, Block 3064 0004511
+Census 2000 SF1 Tract 208.00, Block 3065 0004512
+Census 2000 SF1 Tract 208.00, Block 3066 0004513
+Census 2000 SF1 Tract 208.00, Block 3067 0004514
+Census 2000 SF1 Tract 208.00, Block 3068 0004515
+Census 2000 SF1 Tract 208.00, Block 3069 0004516
+Census 2000 SF1 Tract 208.00, Block 3993 0004519
+Census 2000 SF1 Tract 208.00, Block 3997 0004523
+Census 2000 SF1 Tract 208.00, Block 3999 0004525
+Census 2000 SF1 Tract 208.00, Block 9000 0004527
+Census 2000 SF1 Tract 208.00, Block 9001 0004528
+Census 2000 SF1 Tract 208.00, Block 9002 0004529
+Census 2000 SF1 Tract 208.00, Block 9003 0004530
+Census 2000 SF1 Tract 208.00, Block 9004 0004531
+Census 2000 SF1 Tract 208.00, Block 9005 0004532
+Census 2000 SF1 Tract 208.00, Block 9006 0004533
+Census 2000 SF1 Tract 208.00, Block 9007 0004534
+Census 2000 SF1 Tract 208.00, Block 9008 0004535
+Census 2000 SF1 Tract 208.00, Block 9009 0004536
+Census 2000 SF1 Tract 208.00, Block 9010 0004537
+Census 2000 SF1 Tract 208.00, Block 9011 0004538
+Census 2000 SF1 Tract 208.00, Block 9012 0004539
+Census 2000 SF1 Tract 208.00, Block 9013 0004540
+Census 2000 SF1 Tract 208.00, Block 9014 0004541
+Census 2000 SF1 Tract 208.00, Block 9015 0004542
+Census 2000 SF1 Tract 208.00, Block 9016 0004543
+Census 2000 SF1 Tract 208.00, Block 9017 0004544
+Census 2000 SF1 Tract 208.00, Block 9018 0004545
+Census 2000 SF1 Tract 208.00, Block 9019 0004546
+Census 2000 SF1 Tract 208.00, Block 9020 0004547
+Census 2000 SF1 Tract 208.00, Block 9021 0004548
+Census 2000 SF1 Tract 208.00, Block 9022 0004549
+Census 2000 SF1 Tract 208.00, Block 9023 0004550
+Census 2000 SF1 Tract 208.00, Block 9024 0004551
+Census 2000 SF1 Tract 208.00, Block 9025 0004552
+Census 2000 SF1 Tract 208.00, Block 9026 0004553
+Census 2000 SF1 Tract 208.00, Block 9027 0004554
+Census 2000 SF1 Tract 208.00, Block 9028 0004555
+Census 2000 SF1 Tract 208.00, Block 9029 0004556
+Census 2000 SF1 Tract 208.00, Block 9030 0004557
+Census 2000 SF1 Tract 208.00, Block 9031 0004558
+Census 2000 SF1 Tract 208.00, Block 9032 0004559
+Census 2000 SF1 Tract 208.00, Block 9034 0004561
+Census 2000 SF1 Tract 208.00, Block 9035 0004562
+Census 2000 SF1 Tract 208.00, Block 9036 0004563
+Census 2000 SF1 Tract 208.00, Block 9037 0004564
+Census 2000 SF1 Tract 208.00, Block 9038 0004565
+Census 2000 SF3 Block Group 208.003 0000476
+('5742',)
+Census 2000 SF3 Block Group 208.002 0000475
+('5082',)
+Census 2000 SF3 Block Group 208.009 0000477
+('6492',)
+ACS 2010e5 Block Group 208.003 0000747
+('0',)
+ACS 2010e5 Block Group 208.002 0000746
+('',)
+ACS 2010e5 Block Group 208.009 None
+Census Tract 209.01 0005630
+Census Tract 209.01 0005630
+Census 2000 SF1 Tract 209.01, Block 1000 0001857
+('13897',)
+Census 2000 SF1 Tract 209.01, Block 1001 0001858
+('15584',)
+Census 2000 SF1 Tract 209.01, Block 1002 0001859
+('15665',)
+Census 2000 SF1 Tract 209.01, Block 1003 0001860
+('539',)
+Census 2000 SF1 Tract 209.01, Block 1004 0001861
+('13777',)
+Census 2000 SF1 Tract 209.01, Block 1005 0001862
+('16820',)
+Census 2000 SF1 Tract 209.01, Block 1006 0001863
+('1653',)
+Census 2000 SF1 Tract 209.01, Block 1007 0001864
+('118',)
+Census 2000 SF1 Tract 209.01, Block 1008 0001865
+('10705',)
+Census 2000 SF1 Tract 209.01, Block 1009 0001866
+('1202',)
+Census 2000 SF1 Tract 209.01, Block 1010 0001867
+('1808',)
+Census 2000 SF1 Tract 209.01, Block 1011 0001868
+('14425',)
+Census 2000 SF1 Tract 209.01, Block 1012 0001869
+('5401',)
+Census 2000 SF1 Tract 209.01, Block 1013 0001870
+('',)
+Census 2000 SF1 Tract 209.01, Block 1014 0001871
+('14529',)
+Census 2000 SF1 Tract 209.01, Block 1015 0001872
+('1313',)
+Census 2000 SF1 Tract 209.01, Block 1016 0001873
+('',)
+Census 2000 SF1 Tract 209.01, Block 1017 0001874
+('46341',)
+Census 2000 SF1 Tract 209.01, Block 1018 0001875
+('208',)
+Census 2000 SF1 Tract 209.01, Block 1019 0001876
+('0',)
+Census 2000 SF1 Tract 209.01, Block 1020 0001877
+('14105',)
+Census 2000 SF1 Tract 209.01, Block 1021 0001878
+('14306',)
+Census 2000 SF1 Tract 209.01, Block 1022 0001879
+('12710',)
+Census 2000 SF1 Tract 209.01, Block 1023 0001880
+('14779',)
+Census 2000 SF1 Tract 209.01, Block 1024 0001881
+('13763',)
+Census 2000 SF1 Tract 209.01, Block 1025 0001882
+('35',)
+Census 2000 SF1 Tract 209.01, Block 1026 0001883
+('',)
+Census 2000 SF1 Tract 209.01, Block 1027 0001884
+('14019',)
+Census 2000 SF1 Tract 209.01, Block 1028 0001885
+('',)
+Census 2000 SF1 Tract 209.01, Block 1029 0001886
+('14503',)
+Census 2000 SF1 Tract 209.01, Block 1030 0001887
+('2673',)
+Census 2000 SF1 Tract 209.01, Block 1031 0001888
+('11388',)
+Census 2000 SF1 Tract 209.01, Block 1032 0001889
+('',)
+Census 2000 SF1 Tract 209.01, Block 1033 0001890
+('',)
+Census 2000 SF1 Tract 209.01, Block 1034 0001891
+('12997',)
+Census 2000 SF1 Tract 209.01, Block 1035 0001892
+('0',)
+Census 2000 SF1 Tract 209.01, Block 1036 0001893
+('13426',)
+Census 2000 SF1 Tract 209.01, Block 1037 0001894
+('14631',)
+Census 2000 SF1 Tract 209.01, Block 1038 0001895
+('13800',)
+Census 2000 SF1 Tract 209.01, Block 1039 0001896
+('14429',)
+Census 2000 SF1 Tract 209.01, Block 1040 0001897
+('13300',)
+Census 2000 SF1 Tract 209.01, Block 1041 0001898
+('',)
+Census 2000 SF1 Tract 209.01, Block 1042 0001899
+('13764',)
+Census 2000 SF1 Tract 209.01, Block 1043 0001900
+('15857',)
+Census 2000 SF1 Tract 209.01, Block 2000 0001903
+('209',)
+Census 2000 SF1 Tract 209.01, Block 2001 0001904
+('14592',)
+Census 2000 SF1 Tract 209.01, Block 2002 0001905
+('15318',)
+Census 2000 SF1 Tract 209.01, Block 2003 0001906
+('13416',)
+Census 2000 SF1 Tract 209.01, Block 2004 0001907
+('13140',)
+Census 2000 SF1 Tract 209.01, Block 2005 0001908
+('',)
+Census 2000 SF1 Tract 209.01, Block 2006 0001909
+('',)
+Census 2000 SF1 Tract 209.01, Block 2007 0001910
+('14843',)
+Census 2000 SF1 Tract 209.01, Block 2008 0001911
+('13595',)
+Census 2000 SF1 Tract 209.01, Block 2009 0001912
+('14801',)
+Census 2000 SF1 Tract 209.01, Block 2010 0001913
+('12992',)

@@ -1,8 +1,6 @@
 from tables import *
 
 
-
-
 def get_all_geographies(h5file):
 	"""Returns an pytables.table """
 	return h5file.getNode("/geographies/geographies_table")
@@ -100,40 +98,29 @@ def dump_all_tables_all_geos(h5file):
 		  	print logrecno, get_value_from_row(logrecno, table, h5file)
 
 
+def single_table_all_geo(h5file):
+	#------------------------------------------------------------
+	# single table for all geographies
+	# # get table info
+	table = get_sequence_num_from_table('B19113', 1, h5file)
+	
+	#get all geographies
+	geography_table = get_all_geographies(h5file)
+	
+	for rec in geography_table:
+	 	logrecno = "%07d" % rec['logrecno']
+	 	print logrecno, rec['geography_name']
+	 	print get_value_from_row(logrecno, table, h5file)
+
+	#------------------------------------------------------------
+
+
 def main():
 	# open h5 file
 	h5file = openFile("HDF5/census.h5", mode = "r", title = "Census Data")
 
-	dump_all_tables_for_geo('0000001', h5file)
-	#------------------------------------------------------------
-	# single table for all geographies
-	# # get table info
-	# table = get_sequence_num_from_table('B19113', 1, h5file)
-	
-	# #get all geographies
-	# geography_table = get_all_geographies(h5file)
-	
-	# for rec in geography_table:
-	#  	logrecno = "%07d" % rec['logrecno']
-	#  	print logrecno, rec['geography_name']
-	#  	print get_value_from_row(logrecno, table, h5file)
+	single_table_all_geo(h5file)
 
-	#------------------------------------------------------------
-
-	#------------------------------------------------------------
-	#get all geographies
-	#geography_table = get_all_geographies(h5file)
-
-	# for t in get_all_table_ids(h5file):
-	# 	# get table info
-	# 	table = get_sequence_num_from_table(t[0], t[1], h5file)
-	# 	print table['table_title'], table['row']
-		
-
-	#------------------------------------------------------------
-
-	for i in dump_all(h5file):
-		print i
 
 	h5file.close()
 
