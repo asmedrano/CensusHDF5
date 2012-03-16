@@ -42,7 +42,7 @@ def load(h5file):
     table = h5file.createTable(group,"census_row",CensusRow, 'CensusRow')
     row = table.row    
 
-    for file_num in range(2): #118
+    for file_num in range(118): #118
 
         print "Reading File: " , file_num
 
