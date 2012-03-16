@@ -70,22 +70,18 @@ def get_values_from_sequence(seq_num, logrecno, filetype, h5file):
 
 	table = h5file.getNode("/sequences/census_row")
 	
-	query = """(sequence_num==%s) & (logrecno==%s)""" % (int(seq_num), float(logrecno))
+	query = """(sequence_num==%d) & (logrecno==%d)""" % (int(seq_num), float(logrecno))
+	print query
 	
 	result = [x.fetch_all_fields() for x in run_get_values_from_sequence_qry(table, query, filetype)]
 
 	return result
 
 def get_value_from_row(logrecno,table, h5file):
-	"""pull as single value from the row
-		expects row as 1,2,4,5 
-	"""
+	# we have to do subtract for array notation
+	row = (table['start_poss']-7)+(table['row']-1)
 
-	#print seq_num, "<---- seq num"
-	#print get_values_from_sequence(table_info['seq_num'], logrecno, h5file).read()
-	# we need to caculate row_num so we can account for the fields that we removed in the normalization and for arrar(list) notation 0 
-	row_num = (table['start_poss']-6)+(table['row']-1)
-	return get_values_from_sequence(table['seq_num'], logrecno, h5file)[row_num]
+	return get_values_from_sequence(int(table['seq_num']), logrecno, '2010e5', h5file)[0]['columns'][row]
 
 
 def dump_all_tables(h5file):
@@ -139,7 +135,11 @@ def main():
 	# open h5 file
 	h5file = openFile("HDF5/census.h5", mode = "r", title = "Census Data")
 
-	print get_values_from_sequence('1', '0000001', '2010e5', h5file)[0]
+	table = get_sequence_num_from_table('B01003', 1, h5file)
+	print table
+	print get_value_from_row('0000040', table, h5file)
+
+
 
 	h5file.close()
 

@@ -48,6 +48,7 @@ def load(h5file):
         acs(file_num+1, 'All_Geographies_Not_Tracts_Block_Groups', h5file, row)
 
     table.flush()
+    table.cols.logrecno.createIndex()
  
 
 
