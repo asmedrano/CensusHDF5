@@ -44,24 +44,23 @@ def load(h5file):
 
     for file_num in range(118): #118
 
-        print "Reading File: " , file_num
-
         acs(file_num+1, 'Tracts_Block_Groups_Only', h5file, row)
         acs(file_num+1, 'All_Geographies_Not_Tracts_Block_Groups', h5file, row)
 
     table.flush()
-    # finally create index()
-    table.cols.logrecno.createIndex()
+ 
 
 
 def acs(file_num, geo_type_dir, h5file,row):
+
+    print "Working on File: ", file_num
+
     base_url = 'http://www2.census.gov/acs2010_5yr/summaryfile/2006-2010_ACSSF_By_State_By_Sequence_Table_Subset/'
     path = os.path.join(
         state_name.replace(' ', ''), geo_type_dir,
         '20105%s%04d000.zip' % (state_abbr, file_num)
     )
 
-    #print base_url + path
 
     reader = remote_fallback_reader(
         'source',
@@ -75,8 +74,9 @@ def acs(file_num, geo_type_dir, h5file,row):
     z.extractall('/tmp/')
 
     # add the sequence number our row object
-
     
+    
+
 
     files = ['e20105%s%04d000.txt' % (state_abbr, file_num),
         'm20105%s%04d000.txt' % (state_abbr, file_num),]
@@ -87,35 +87,35 @@ def acs(file_num, geo_type_dir, h5file,row):
     file_iter = 0
 
     for f in files:
-        row['sequence_num'] = file_num
+  
         file_iter +=1
-        if file_iter ==1:
-            row['filetype'] = "2010e5"
-        
-        elif file_iter ==2:
-            row['filetype'] = '2010m5'
-
         z.extract(f, '/tmp/')
-
-      
-
         the_file = open('/tmp/' + f, 'r')
-    
+
         # at this point we have the filename and its in the /tmp/dir
         for line in the_file:
+
+            if file_iter ==1:
+                row['filetype'] = "2010e5"
+        
+            elif file_iter ==2:
+                row['filetype'] = '2010m5'
+
+            row['sequence_num'] = file_num
             #print line
             data = str(line).split(',')[5:] # logrecno @ [0]  + only the numbers
-            #print data           
+
+                       
             #print "LOGRECNO_"+data[0]
             row['logrecno'] = data[0]
-
+         
 
             n_arr = array([x for x in filled_list(data[1:], 230)])
 
 
             row['columns'] = n_arr
 
-        row.append()
+            row.append()
 
         os.unlink('/tmp/' + f)
         the_file.close()
