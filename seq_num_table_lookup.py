@@ -41,6 +41,8 @@ def load(h5file):
 		row.append()
 
 	table.flush()
+	table.cols.table_id.createIndex()
+	
 
 
 

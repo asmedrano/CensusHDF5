@@ -71,7 +71,6 @@ def get_values_from_sequence(seq_num, logrecno, filetype, h5file):
 	table = h5file.getNode("/sequences/census_row")
 	
 	query = """(sequence_num==%d) & (logrecno==%d)""" % (int(seq_num), float(logrecno))
-	print query
 	
 	result = [x.fetch_all_fields() for x in run_get_values_from_sequence_qry(table, query, filetype)]
 
@@ -135,11 +134,15 @@ def main():
 	# open h5 file
 	h5file = openFile("HDF5/census.h5", mode = "r", title = "Census Data")
 
-	table = get_sequence_num_from_table('B01003', 1, h5file)
-	print table
-	print get_value_from_row('0000040', table, h5file)
+	#--------------------------------------------------------------------------
+	#single geo single record example
+	#table = get_sequence_num_from_table('B01003', 1, h5file)
+	
+	#print get_value_from_row('0000040', table, h5file)
+	#--------------------------------------------------------------------------
 
 
+	single_table_all_geo(h5file)
 
 	h5file.close()
 

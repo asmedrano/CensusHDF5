@@ -2,3 +2,5 @@ ENV/
 *.h5
 *.pyc
 source/RhodeIsland/
+*output
+
